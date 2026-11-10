@@ -23,3 +23,4 @@
 
 - [요구사항과 단계별 개발 범위](docs/requirements.md)
 - [REA 1차 분석](docs/hancomdocs-rea.md)
+- [메뉴·설정창 REA 조사와 데스크톱 한글 전체 단축키 기준](docs/rea/README.md)

@@ -1,0 +1,3413 @@
+{
+  "schemaVersion": 1,
+  "profile": "한글 2024 · 한컴오피스 기본 단축키",
+  "source": {
+    "url": "https://help.hancom.com/hoffice130/ko-KR/Hwp/view/toolbar/shortcut(table).htm",
+    "evidenceId": "ev_a750e7c291f797865978967b4081e65ecc088b2e2d48f832e7435225b2ceedee",
+    "sha256": "89c63dede3ed0694c785a0955d0f798bd5b2a81b243dfc389b266b96c57f14f6"
+  },
+  "rowCount": 340,
+  "scope": "All data rows in the selected official shortcut table; includes context-specific, pointer-assisted and OS/browser-reserved operations. Not all possible custom user shortcuts.",
+  "items": [
+    {
+      "id": "1.1",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "빈칸 삽입",
+      "keys": "SpaceBar",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "1.2",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "문단 나누기",
+      "keys": "Enter",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "1.3",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "한 글자 왼쪽으로",
+      "keys": "←",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "1.4",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "한 글자 오른쪽으로",
+      "keys": "→",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "1.5",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "한 줄 아래로",
+      "keys": "↓",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "1.6",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "한 줄 위로",
+      "keys": "↑",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "1.7",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "한 단어 오른쪽으로",
+      "keys": "Ctrl+→",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "1.8",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "한 단어 오른쪽으로\n(문단 나눔, 줄 나눔 포함)",
+      "keys": "Alt+Shift+→",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "1.9",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "한 단어 왼쪽으로",
+      "keys": "Ctrl+←",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "1.10",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "한 단어 왼쪽으로\n(문단 나눔, 줄 나눔 포함)",
+      "keys": "Alt+Shift+←",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "1.11",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "한 문단 아래로",
+      "keys": "Ctrl+↓",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "1.12",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "한 문단 위로",
+      "keys": "Ctrl+↑",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "1.13",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "왼쪽 단으로",
+      "keys": "Ctrl+Alt+←",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "1.14",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "오른쪽 단으로",
+      "keys": "Ctrl+Alt+→",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "1.15",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "줄 처음으로",
+      "keys": "Home",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "1.16",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "줄 끝으로",
+      "keys": "End",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "1.17",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "문단 처음으로",
+      "keys": "Alt+Home",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "1.18",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "문단 끝으로",
+      "keys": "Alt+End",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "1.19",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "화면 첫 줄로",
+      "keys": "Ctrl+Home",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "1.20",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "화면 끝줄로",
+      "keys": "Ctrl+End",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "1.21",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "한 화면 앞으로",
+      "keys": "Page Up",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "1.22",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "한 화면 뒤로",
+      "keys": "Page Down",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "1.23",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "한 쪽 앞으로",
+      "keys": "Alt+Page Up",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "1.24",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "한 쪽 뒤로",
+      "keys": "Alt+Page Down",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "1.25",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "문서의 처음으로",
+      "keys": "Ctrl+Page Up",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "1.26",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "문서의 끝으로",
+      "keys": "Ctrl+Page Down",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "2.1",
+      "section": "기본 단축키",
+      "context": "지우기 관련 단축키",
+      "feature": "뒷글자 지우기",
+      "keys": "Delete",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "2.2",
+      "section": "기본 단축키",
+      "context": "지우기 관련 단축키",
+      "feature": "앞글자 지우기",
+      "keys": "BackSpace",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "2.3",
+      "section": "기본 단축키",
+      "context": "지우기 관련 단축키",
+      "feature": "한 단어 지우기",
+      "keys": "Ctrl+T/Ctrl+Delete",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "2.4",
+      "section": "기본 단축키",
+      "context": "지우기 관련 단축키",
+      "feature": "앞 단어 지우기",
+      "keys": "Ctrl+BackSpace",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "2.5",
+      "section": "기본 단축키",
+      "context": "지우기 관련 단축키",
+      "feature": "한 줄 지우기",
+      "keys": "Ctrl+Y",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "2.6",
+      "section": "기본 단축키",
+      "context": "지우기 관련 단축키",
+      "feature": "줄 뒤 지우기",
+      "keys": "Alt+Y",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "3.1",
+      "section": "[파일] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "새 문서",
+      "keys": "Alt+N",
+      "menuPath": "파일-새 문서",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "3.2",
+      "section": "[파일] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "새 탭",
+      "keys": "Ctrl+Alt+T",
+      "menuPath": "파일- 새 문서-새 탭",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "3.3",
+      "section": "[파일] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "문서마당",
+      "keys": "Ctrl+Alt+N",
+      "menuPath": "파일-문서마당",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "3.4",
+      "section": "[파일] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "불러오기",
+      "keys": "Alt+O",
+      "menuPath": "파일-불러오기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "3.5",
+      "section": "[파일] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "저장하기",
+      "keys": "Alt+S/Ctrl+S",
+      "menuPath": "파일-저장하기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "3.6",
+      "section": "[파일] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "다른 이름으로 저장하기",
+      "keys": "Alt+V",
+      "menuPath": "파일-다른 이름으로 저장하기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "3.7",
+      "section": "[파일] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "호환 문서",
+      "keys": "Ctrl+N,D",
+      "menuPath": "파일-호환 문서",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "3.8",
+      "section": "[파일] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "문서 정보",
+      "keys": "Ctrl+Q,I/Ctrl+Q,D",
+      "menuPath": "파일-문서 정보",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "3.9",
+      "section": "[파일] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "인쇄",
+      "keys": "Alt+P/Ctrl+P",
+      "menuPath": "파일-인쇄",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "3.10",
+      "section": "[파일] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "끝",
+      "keys": "Alt+X",
+      "menuPath": "파일-끝",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "3.11",
+      "section": "[파일] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "문서 닫기",
+      "keys": "Ctrl+F4",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "3.12",
+      "section": "[파일] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "필드 그룹 반복하기",
+      "keys": "Ctrl+G,R",
+      "menuPath": "XML 도구 상자-필드 그룹 반복하기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "3.13",
+      "section": "[파일] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "필드 그룹 삭제하기",
+      "keys": "Ctrl+G,D",
+      "menuPath": "XML 도구 상자-필드 그룹 삭제하기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "4.1",
+      "section": "[파일] 메뉴",
+      "context": "[파일-미리 보기] 상태에서",
+      "feature": "편집 용지",
+      "keys": "F7",
+      "menuPath": "쪽-편집 용지",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "4.2",
+      "section": "[파일] 메뉴",
+      "context": "[파일-미리 보기] 상태에서",
+      "feature": "인쇄",
+      "keys": "Alt+P/Ctrl+P",
+      "menuPath": "파일-인쇄",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "4.3",
+      "section": "[파일] 메뉴",
+      "context": "[파일-미리 보기] 상태에서",
+      "feature": "앞 쪽/다음 쪽",
+      "keys": "Page Up/Page Down",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "4.4",
+      "section": "[파일] 메뉴",
+      "context": "[파일-미리 보기] 상태에서",
+      "feature": "문서의 처음으로",
+      "keys": "Ctrl+Page Up",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "4.5",
+      "section": "[파일] 메뉴",
+      "context": "[파일-미리 보기] 상태에서",
+      "feature": "문서의 끝으로",
+      "keys": "Ctrl+Page Down",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "4.6",
+      "section": "[파일] 메뉴",
+      "context": "[파일-미리 보기] 상태에서",
+      "feature": "현재 쪽(맞쪽 보기에서는 오른쪽)",
+      "keys": "Ctrl+Enter",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "4.7",
+      "section": "[파일] 메뉴",
+      "context": "[파일-미리 보기] 상태에서",
+      "feature": "화면 인쇄 확대/축소",
+      "keys": "(Num)+/-",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "4.8",
+      "section": "[파일] 메뉴",
+      "context": "[파일-미리 보기] 상태에서",
+      "feature": "편집 용지 여백 보기",
+      "keys": ". (마침표)",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "4.9",
+      "section": "[파일] 메뉴",
+      "context": "[파일-미리 보기] 상태에서",
+      "feature": "편집 용지 보기",
+      "keys": ", (쉼표)",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "5.1",
+      "section": "[편집] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "되돌리기",
+      "keys": "Ctrl+Z",
+      "menuPath": "편집-되돌리기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "5.2",
+      "section": "[편집] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "다시 실행",
+      "keys": "Ctrl+Shift+Z",
+      "menuPath": "편집-다시 실행",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "5.3",
+      "section": "[편집] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "오려 두기",
+      "keys": "Ctrl+X/Shift+Delete",
+      "menuPath": "편집-오려 두기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "5.4",
+      "section": "[편집] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "복사하기",
+      "keys": "Ctrl+C/Ctrl+Insert",
+      "menuPath": "편집-복사하기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "5.5",
+      "section": "[편집] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "붙이기",
+      "keys": "Ctrl+V/Shift+Insert",
+      "menuPath": "편집-붙이기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "5.6",
+      "section": "[편집] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "골라 붙이기",
+      "keys": "Ctrl+Alt+V",
+      "menuPath": "편집-골라 붙이기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "5.7",
+      "section": "[편집] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "모양 복사",
+      "keys": "Alt+C",
+      "menuPath": "편집-모양 복사",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "5.8",
+      "section": "[편집] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "복사한 모양 붙이기(일반 편집 상태)",
+      "keys": "F3/F4→Alt+C",
+      "menuPath": "편집-모양 복사",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "5.9",
+      "section": "[편집] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "복사한 모양 붙이기(표 편집 상태)",
+      "keys": "F5→Alt+C",
+      "menuPath": "편집-모양 복사",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "5.10",
+      "section": "[편집] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "지우기",
+      "keys": "Ctrl+E",
+      "menuPath": "편집-지우기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "5.11",
+      "section": "[편집] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "모두 선택",
+      "keys": "Ctrl+A",
+      "menuPath": "편집-모두 선택",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "5.12",
+      "section": "[편집] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "블록 설정",
+      "keys": "F3",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "5.13",
+      "section": "[편집] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "낱말 블록",
+      "keys": "F3, 2번",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "5.14",
+      "section": "[편집] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "한 문단 블록",
+      "keys": "F3, 3번",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "5.15",
+      "section": "[편집] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "문서 전체 블록",
+      "keys": "F3, 4번",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "5.16",
+      "section": "[편집] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "원하는 만큼 블록 설정",
+      "keys": "Shift+←/→",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "5.17",
+      "section": "[편집] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "커서부터 줄 처음/끝까지 블록 설정",
+      "keys": "Shift+Home/End",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "5.18",
+      "section": "[편집] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "문단 위로 이동",
+      "keys": "Alt+Shift+↑",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "5.19",
+      "section": "[편집] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "문단 아래로 이동",
+      "keys": "Alt+Shift+↓",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "5.20",
+      "section": "[편집] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "찾기",
+      "keys": "Ctrl+Q,F",
+      "menuPath": "편집-찾기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "5.21",
+      "section": "[편집] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "탐색",
+      "keys": "Ctrl+F",
+      "menuPath": "보기-작업 창-탐색",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "5.22",
+      "section": "[편집] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "찾아 바꾸기",
+      "keys": "Ctrl+F2/Ctrl+Q,A/Ctrl+H",
+      "menuPath": "편집-찾기-찾아 바꾸기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "5.23",
+      "section": "[편집] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "다시 찾기",
+      "keys": "Ctrl+L",
+      "menuPath": "편집-찾기-다시 찾기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "5.24",
+      "section": "[편집] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "거꾸로 찾기",
+      "keys": "Ctrl+Q,L",
+      "menuPath": "",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "5.25",
+      "section": "[편집] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "찾아가기",
+      "keys": "Alt+G",
+      "menuPath": "편집-찾기-찾아가기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "5.26",
+      "section": "[편집] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "한글로 바꾸기",
+      "keys": "Alt+F9",
+      "menuPath": "편집-글자 바꾸기-한글로 바꾸기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "5.27",
+      "section": "[편집] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "간체/번체 바꾸기",
+      "keys": "Alt+Shift+F9",
+      "menuPath": "편집-글자 바꾸기-간체/번체 바꾸기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "5.28",
+      "section": "[편집] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "고치기",
+      "keys": "Ctrl+N,K",
+      "menuPath": "편집-고치기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "5.29",
+      "section": "[편집] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "이전 커서 위치로 이동",
+      "keys": "Ctrl+=",
+      "menuPath": "",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "5.30",
+      "section": "[편집] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "다음 커서 위치로 이동",
+      "keys": "Ctrl+Shift+=",
+      "menuPath": "",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "6.1",
+      "section": "[보기] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "문단 부호 보이기/숨기기",
+      "keys": "Ctrl+G,T",
+      "menuPath": "보기-표시/숨기기-문단 부호",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "6.2",
+      "section": "[보기] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "조판 부호 보이기/숨기기",
+      "keys": "Ctrl+G,C",
+      "menuPath": "보기-표시/숨기기-조판 부호",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "6.3",
+      "section": "[보기] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "화면 확대 쪽 맞춤",
+      "keys": "Ctrl+G,P",
+      "menuPath": "보기-확대/축소",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "6.4",
+      "section": "[보기] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "화면 확대 폭 맞춤",
+      "keys": "Ctrl+G,W",
+      "menuPath": "보기-확대/축소",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "6.5",
+      "section": "[보기] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "화면 확대 100%",
+      "keys": "Ctrl+G,Q",
+      "menuPath": "보기-확대/축소",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "6.6",
+      "section": "[보기] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "화면 확대/축소",
+      "keys": "Shift+(Num)+/-",
+      "menuPath": "보기-확대/축소",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "6.7",
+      "section": "[보기] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "쪽 윤곽",
+      "keys": "Ctrl+G,L",
+      "menuPath": "보기-쪽 윤곽",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "6.8",
+      "section": "[보기] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "전체 화면",
+      "keys": "Ctrl+G,Z",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "6.9",
+      "section": "[보기] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "창 전환",
+      "keys": "Alt+Tab",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "6.10",
+      "section": "[보기] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "문서 탭 순환",
+      "keys": "Ctrl+Tab",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "6.11",
+      "section": "[보기] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "모두 아이콘으로",
+      "keys": "Ctrl+W,M",
+      "menuPath": "보기-창 배열",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "6.12",
+      "section": "[보기] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "탐색",
+      "keys": "Ctrl+F",
+      "menuPath": "보기-작업 창-탐색",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "7.1",
+      "section": "[보기] 메뉴",
+      "context": "편집 화면 분할 상태에서",
+      "feature": "화면 이동",
+      "keys": "Ctrl+W,N",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "8.1",
+      "section": "[입력] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "상용구 등록",
+      "keys": "F3 → Alt+I",
+      "menuPath": "입력-입력 도우미-상용구-상용구 등록",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "8.2",
+      "section": "[입력] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "상용구 실행",
+      "keys": "첫글자, Alt+I",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "8.3",
+      "section": "[입력] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "상용구 내용 보기",
+      "keys": "Ctrl+F3",
+      "menuPath": "입력-입력 도우미-상용구-상용구 내용",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "8.4",
+      "section": "[입력] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "문자표",
+      "keys": "Ctrl+F10",
+      "menuPath": "입력-문자표",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "8.5",
+      "section": "[입력] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "한글을 한자로 변환",
+      "keys": "F9",
+      "menuPath": "입력-한자 입력-한자로 바꾸기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "8.6",
+      "section": "[입력] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "한자를 한글로 변환",
+      "keys": "Alt+F9",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "8.7",
+      "section": "[입력] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "한자 단어 등록",
+      "keys": "Ctrl+Alt+F9",
+      "menuPath": "입력-한자 입력-한자 단어 등록",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "8.8",
+      "section": "[입력] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "한자 부수/총획수",
+      "keys": "Ctrl+F9",
+      "menuPath": "입력-한자 입력-한자 부수/총획수",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "8.9",
+      "section": "[입력] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "한자 새김 입력",
+      "keys": "Ctrl+Shift+F9",
+      "menuPath": "입력-한자 입력-한자 새김 입력",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "8.10",
+      "section": "[입력] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "인명 한자로 바꾸기",
+      "keys": "Ctrl+Alt+F10",
+      "menuPath": "입력-한자 입력-인명 한자로 바꾸기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "8.11",
+      "section": "[입력] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "날짜/시간 문자열",
+      "keys": "Ctrl+K,D",
+      "menuPath": "입력-날짜/시간/파일 이름-날짜/시간 문자열",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "8.12",
+      "section": "[입력] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "날짜/시간 코드",
+      "keys": "Ctrl+K,C",
+      "menuPath": "입력-날짜/시간/파일 이름-날짜/시간 코드",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "8.13",
+      "section": "[입력] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "날짜/시간 형식",
+      "keys": "Ctrl+K,F",
+      "menuPath": "입력-날짜/시간/파일 이름-날짜/시간 형식",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "8.14",
+      "section": "[입력] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "각주",
+      "keys": "Ctrl+N,N",
+      "menuPath": "입력-주석-각주",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "8.15",
+      "section": "[입력] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "미주",
+      "keys": "Ctrl+N,E",
+      "menuPath": "입력-주석-미주",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "8.16",
+      "section": "[입력] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "그림",
+      "keys": "Ctrl+N,I",
+      "menuPath": "입력-그림-그림",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "8.17",
+      "section": "[입력] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "글상자",
+      "keys": "Ctrl+N,B",
+      "menuPath": "입력-글상자",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "8.18",
+      "section": "[입력] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "수식",
+      "keys": "Ctrl+N,M",
+      "menuPath": "입력-수식",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "8.19",
+      "section": "[입력] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "문단 띠",
+      "keys": "Ctrl+N,L",
+      "menuPath": "입력-문단 띠",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "8.20",
+      "section": "[입력] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "캡션 넣기",
+      "keys": "Ctrl+N,C",
+      "menuPath": "입력-캡션 넣기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "8.21",
+      "section": "[입력] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "책갈피",
+      "keys": "Ctrl+K,B",
+      "menuPath": "입력-책갈피",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "8.22",
+      "section": "[입력] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "책갈피 바로 넣기(위치 기억)",
+      "keys": "Ctrl+K,1,2,...,9,0",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "8.23",
+      "section": "[입력] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "기억된 책갈피 위치로 이동",
+      "keys": "Ctrl+Q,1,2,...,9,0",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "8.24",
+      "section": "[입력] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "하이퍼링크",
+      "keys": "Ctrl+K,H",
+      "menuPath": "입력-하이퍼링크",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "8.25",
+      "section": "[입력] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "하이퍼링크 뒤로",
+      "keys": "Ctrl+Q,B",
+      "menuPath": "하이퍼링크 이전",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "8.26",
+      "section": "[입력] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "하이퍼링크 앞으로",
+      "keys": "Ctrl+Q,R",
+      "menuPath": "하이퍼링크 다음",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "8.27",
+      "section": "[입력] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "상호 참조",
+      "keys": "Ctrl+K,R",
+      "menuPath": "입력-상호 참조",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "8.28",
+      "section": "[입력] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "필드 입력",
+      "keys": "Ctrl+K,E",
+      "menuPath": "입력-개체-필드 입력",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "8.29",
+      "section": "[입력] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "문서 끼워 넣기",
+      "keys": "Ctrl+O",
+      "menuPath": "입력-문서 끼워 넣기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "8.30",
+      "section": "[입력] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "OLE 개체 삽입",
+      "keys": "Ctrl+N,O",
+      "menuPath": "입력-개체-OLE 개체",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "8.31",
+      "section": "[입력] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "한중일 통합 확장 한자-B 입력",
+      "keys": "코드 값을 입력한 상태에서 Shift+Alt+F10",
+      "menuPath": "입력-문자표-유니코드 문자표",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "9.1",
+      "section": "[입력] 메뉴",
+      "context": "셀 블록 상태에서",
+      "feature": "표 자동 채우기",
+      "keys": "A",
+      "menuPath": "입력-채우기-표 자동 채우기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "10.1",
+      "section": "[입력] 메뉴",
+      "context": "개체를 선택한 상태에서(공통 단축키)",
+      "feature": "개체 속성",
+      "keys": "P",
+      "menuPath": "(빠른 메뉴)개체 속성",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "10.2",
+      "section": "[입력] 메뉴",
+      "context": "개체를 선택한 상태에서(공통 단축키)",
+      "feature": "오려 두기",
+      "keys": "Ctrl+X/Shift+Delete",
+      "menuPath": "(빠른 메뉴)오려 두기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "10.3",
+      "section": "[입력] 메뉴",
+      "context": "개체를 선택한 상태에서(공통 단축키)",
+      "feature": "복사하기",
+      "keys": "Ctrl+C/Ctrl+Insert",
+      "menuPath": "(빠른 메뉴)복사하기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "10.4",
+      "section": "[입력] 메뉴",
+      "context": "개체를 선택한 상태에서(공통 단축키)",
+      "feature": "지우기",
+      "keys": "Ctrl+E",
+      "menuPath": "(빠른 메뉴)지우기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "10.5",
+      "section": "[입력] 메뉴",
+      "context": "개체를 선택한 상태에서(공통 단축키)",
+      "feature": "맨 앞으로",
+      "keys": "Shift+Page Up",
+      "menuPath": "(빠른 메뉴)순서-맨 앞으로",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "10.6",
+      "section": "[입력] 메뉴",
+      "context": "개체를 선택한 상태에서(공통 단축키)",
+      "feature": "맨 뒤로",
+      "keys": "Shift+Page Down",
+      "menuPath": "(빠른 메뉴)순서-맨 뒤로",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "10.7",
+      "section": "[입력] 메뉴",
+      "context": "개체를 선택한 상태에서(공통 단축키)",
+      "feature": "개체 묶기",
+      "keys": "G",
+      "menuPath": "(빠른 메뉴)개체 묶기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "10.8",
+      "section": "[입력] 메뉴",
+      "context": "개체를 선택한 상태에서(공통 단축키)",
+      "feature": "개체 풀기",
+      "keys": "U",
+      "menuPath": "(빠른 메뉴)개체 풀기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "10.9",
+      "section": "[입력] 메뉴",
+      "context": "개체를 선택한 상태에서(공통 단축키)",
+      "feature": "글 앞으로",
+      "keys": "Shift+Home",
+      "menuPath": "(빠른 메뉴)배치-글 앞으로",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "10.10",
+      "section": "[입력] 메뉴",
+      "context": "개체를 선택한 상태에서(공통 단축키)",
+      "feature": "글 뒤로",
+      "keys": "Shift+End",
+      "menuPath": "(빠른 메뉴)배치-글 뒤로",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "10.11",
+      "section": "[입력] 메뉴",
+      "context": "개체를 선택한 상태에서(공통 단축키)",
+      "feature": "캡션 넣기",
+      "keys": "Ctrl+N,C",
+      "menuPath": "(빠른 메뉴)캡션 넣기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "10.12",
+      "section": "[입력] 메뉴",
+      "context": "개체를 선택한 상태에서(공통 단축키)",
+      "feature": "하이퍼링크",
+      "keys": "Ctrl+K,H",
+      "menuPath": "(빠른 메뉴)하이퍼링크",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "10.13",
+      "section": "[입력] 메뉴",
+      "context": "개체를 선택한 상태에서(공통 단축키)",
+      "feature": "선 속성",
+      "keys": "L",
+      "menuPath": "(빠른 메뉴)개체 속성-선 탭",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "10.14",
+      "section": "[입력] 메뉴",
+      "context": "개체를 선택한 상태에서(공통 단축키)",
+      "feature": "개체 이동",
+      "keys": "방향키(↑←↓→)",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "10.15",
+      "section": "[입력] 메뉴",
+      "context": "개체를 선택한 상태에서(공통 단축키)",
+      "feature": "개체 크기 조정",
+      "keys": "Shift+방향키",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "10.16",
+      "section": "[입력] 메뉴",
+      "context": "개체를 선택한 상태에서(공통 단축키)",
+      "feature": "다음 개체 선택",
+      "keys": "Tab",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "10.17",
+      "section": "[입력] 메뉴",
+      "context": "개체를 선택한 상태에서(공통 단축키)",
+      "feature": "이전 개체 선택",
+      "keys": "Shift+Tab",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "10.18",
+      "section": "[입력] 메뉴",
+      "context": "개체를 선택한 상태에서(공통 단축키)",
+      "feature": "본문 상용구 등록",
+      "keys": "Alt+I",
+      "menuPath": "입력-입력 도우미-상용구-상용구 등록",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "10.19",
+      "section": "[입력] 메뉴",
+      "context": "개체를 선택한 상태에서(공통 단축키)",
+      "feature": "상용구 실행",
+      "keys": "첫 글자, Alt+I",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "11.1",
+      "section": "[입력] 메뉴",
+      "context": "그리기, 글상자를 선택한 상태에서",
+      "feature": "배경",
+      "keys": "C",
+      "menuPath": "(빠른 메뉴)개체 속성-채우기 탭",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "12.1",
+      "section": "[입력] 메뉴",
+      "context": "글상자를 선택한 상태에서",
+      "feature": "글상자 편집",
+      "keys": "Enter",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "13.1",
+      "section": "[입력] 메뉴",
+      "context": "수식 편집 대화 상자에서",
+      "feature": "위 첨자",
+      "keys": "Shift+6",
+      "menuPath": "입력-수식",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "13.2",
+      "section": "[입력] 메뉴",
+      "context": "수식 편집 대화 상자에서",
+      "feature": "아래 첨자",
+      "keys": "Shift+-",
+      "menuPath": "입력-수식",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "13.3",
+      "section": "[입력] 메뉴",
+      "context": "수식 편집 대화 상자에서",
+      "feature": "장식 기호",
+      "keys": "Ctrl+D",
+      "menuPath": "입력-수식",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "13.4",
+      "section": "[입력] 메뉴",
+      "context": "수식 편집 대화 상자에서",
+      "feature": "분수",
+      "keys": "Ctrl+O",
+      "menuPath": "입력-수식",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "13.5",
+      "section": "[입력] 메뉴",
+      "context": "수식 편집 대화 상자에서",
+      "feature": "근호",
+      "keys": "Ctrl+R",
+      "menuPath": "입력-수식",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "13.6",
+      "section": "[입력] 메뉴",
+      "context": "수식 편집 대화 상자에서",
+      "feature": "합 기호",
+      "keys": "Ctrl+S",
+      "menuPath": "입력-수식",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "13.7",
+      "section": "[입력] 메뉴",
+      "context": "수식 편집 대화 상자에서",
+      "feature": "적분",
+      "keys": "Ctrl+I",
+      "menuPath": "입력-수식",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "13.8",
+      "section": "[입력] 메뉴",
+      "context": "수식 편집 대화 상자에서",
+      "feature": "극한",
+      "keys": "Ctrl+L",
+      "menuPath": "입력-수식",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "13.9",
+      "section": "[입력] 메뉴",
+      "context": "수식 편집 대화 상자에서",
+      "feature": "상호 관계",
+      "keys": "Ctrl+E",
+      "menuPath": "입력-수식",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "13.10",
+      "section": "[입력] 메뉴",
+      "context": "수식 편집 대화 상자에서",
+      "feature": "괄호",
+      "keys": "Ctrl+9",
+      "menuPath": "입력-수식",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "13.11",
+      "section": "[입력] 메뉴",
+      "context": "수식 편집 대화 상자에서",
+      "feature": "경우",
+      "keys": "Ctrl+0",
+      "menuPath": "입력-수식",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "13.12",
+      "section": "[입력] 메뉴",
+      "context": "수식 편집 대화 상자에서",
+      "feature": "세로 쌓기",
+      "keys": "Ctrl+P",
+      "menuPath": "입력-수식",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "13.13",
+      "section": "[입력] 메뉴",
+      "context": "수식 편집 대화 상자에서",
+      "feature": "행렬",
+      "keys": "Ctrl+M",
+      "menuPath": "입력-수식",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "13.14",
+      "section": "[입력] 메뉴",
+      "context": "수식 편집 대화 상자에서",
+      "feature": "줄 바꿈",
+      "keys": "Enter",
+      "menuPath": "입력-수식",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "13.15",
+      "section": "[입력] 메뉴",
+      "context": "수식 편집 대화 상자에서",
+      "feature": "도움말",
+      "keys": "F1",
+      "menuPath": "입력-수식",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "13.16",
+      "section": "[입력] 메뉴",
+      "context": "수식 편집 대화 상자에서",
+      "feature": "넣기",
+      "keys": "Shift+Esc",
+      "menuPath": "입력-수식",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "14.1",
+      "section": "[서식] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "글자 모양",
+      "keys": "Alt+L",
+      "menuPath": "서식-글자 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "14.2",
+      "section": "[서식] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "문단 모양",
+      "keys": "Alt+T",
+      "menuPath": "서식-문단 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "14.3",
+      "section": "[서식] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "문단 번호 모양",
+      "keys": "Ctrl+K,N",
+      "menuPath": "서식-문단 번호 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "14.4",
+      "section": "[서식] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "스타일",
+      "keys": "F6",
+      "menuPath": "서식-스타일",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "14.5",
+      "section": "[서식] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "문단 번호 속성 삽입/해제",
+      "keys": "Ctrl+Shift+Insert",
+      "menuPath": "서식-문단 번호 적용/해제",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "14.6",
+      "section": "[서식] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "문단 번호 새 번호로 시작",
+      "keys": "Alt+Shift+Insert",
+      "menuPath": "서식-문단 번호 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "14.7",
+      "section": "[서식] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "글머리표 속성 삽입/해제",
+      "keys": "Ctrl+Shift+Delete",
+      "menuPath": "서식-글머리표 적용/해제",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "14.8",
+      "section": "[서식] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "한 수준 증가(문단 번호)",
+      "keys": "Ctrl+(Num)-",
+      "menuPath": "서식-한 수준 증가",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "14.9",
+      "section": "[서식] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "한 수준 감소(문단 번호)",
+      "keys": "Ctrl+(Num)+",
+      "menuPath": "서식-한 수준 감소",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "14.10",
+      "section": "[서식] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "개요 번호 모양",
+      "keys": "Ctrl+K,O",
+      "menuPath": "서식-개요 번호 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "14.11",
+      "section": "[서식] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "개요 속성 삽입/해제",
+      "keys": "Ctrl+Insert",
+      "menuPath": "서식-개요 적용/해제",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "14.12",
+      "section": "[서식] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "한 수준 증가(개요 번호)",
+      "keys": "Ctrl+(Num)-",
+      "menuPath": "서식-한 수준 증가",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "14.13",
+      "section": "[서식] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "한 수준 감소(개요 번호)",
+      "keys": "Ctrl+(Num)+",
+      "menuPath": "서식-한 수준 감소",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "15.1",
+      "section": "[서식] 메뉴",
+      "context": "스타일 설정을 완료한 상태에서",
+      "feature": "스타일 적용",
+      "keys": "Ctrl+1,2...0/Ctrl+Alt+1,2...0",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "15.2",
+      "section": "[서식] 메뉴",
+      "context": "스타일 설정을 완료한 상태에서",
+      "feature": "글자 스타일 해제",
+      "keys": "Ctrl+-",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "16.1",
+      "section": "[서식] 메뉴",
+      "context": "글자를 블록으로 선택한 상태에서",
+      "feature": "글씨 크게",
+      "keys": "Alt+Shift+E/Ctrl+]",
+      "menuPath": "서식-글자 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "16.2",
+      "section": "[서식] 메뉴",
+      "context": "글자를 블록으로 선택한 상태에서",
+      "feature": "글씨 작게",
+      "keys": "Alt+Shift+R/Ctrl+[",
+      "menuPath": "서식-글자 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "16.3",
+      "section": "[서식] 메뉴",
+      "context": "글자를 블록으로 선택한 상태에서",
+      "feature": "자간 넓게",
+      "keys": "Alt+Shift+W",
+      "menuPath": "서식-글자 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "16.4",
+      "section": "[서식] 메뉴",
+      "context": "글자를 블록으로 선택한 상태에서",
+      "feature": "자간 좁게",
+      "keys": "Alt+Shift+N",
+      "menuPath": "서식-글자 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "16.5",
+      "section": "[서식] 메뉴",
+      "context": "글자를 블록으로 선택한 상태에서",
+      "feature": "장으로",
+      "keys": "Alt+Shift+J",
+      "menuPath": "서식-글자 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "16.6",
+      "section": "[서식] 메뉴",
+      "context": "글자를 블록으로 선택한 상태에서",
+      "feature": "평으로",
+      "keys": "Alt+Shift+K",
+      "menuPath": "서식-글자 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "16.7",
+      "section": "[서식] 메뉴",
+      "context": "글자를 블록으로 선택한 상태에서",
+      "feature": "밑줄",
+      "keys": "Alt+Shift+U/Ctrl+U",
+      "menuPath": "서식-글자 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "16.8",
+      "section": "[서식] 메뉴",
+      "context": "글자를 블록으로 선택한 상태에서",
+      "feature": "진하게",
+      "keys": "Alt+Shift+B/Ctrl+B",
+      "menuPath": "서식-글자 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "16.9",
+      "section": "[서식] 메뉴",
+      "context": "글자를 블록으로 선택한 상태에서",
+      "feature": "기울임",
+      "keys": "Alt+Shift+I/Ctrl+I",
+      "menuPath": "서식-글자 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "16.10",
+      "section": "[서식] 메뉴",
+      "context": "글자를 블록으로 선택한 상태에서",
+      "feature": "위 첨자",
+      "keys": "Alt+Shift+P",
+      "menuPath": "서식-글자 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "16.11",
+      "section": "[서식] 메뉴",
+      "context": "글자를 블록으로 선택한 상태에서",
+      "feature": "아래 첨자",
+      "keys": "Alt+Shift+S",
+      "menuPath": "서식-글자 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "16.12",
+      "section": "[서식] 메뉴",
+      "context": "글자를 블록으로 선택한 상태에서",
+      "feature": "보통 모양",
+      "keys": "Alt+Shift+C",
+      "menuPath": "서식-글자 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "16.13",
+      "section": "[서식] 메뉴",
+      "context": "글자를 블록으로 선택한 상태에서",
+      "feature": "다음 글꼴",
+      "keys": "Alt+Shift+F",
+      "menuPath": "서식-글자 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "16.14",
+      "section": "[서식] 메뉴",
+      "context": "글자를 블록으로 선택한 상태에서",
+      "feature": "이전 글꼴",
+      "keys": "Alt+Shift+G",
+      "menuPath": "서식-글자 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "16.15",
+      "section": "[서식] 메뉴",
+      "context": "글자를 블록으로 선택한 상태에서",
+      "feature": "위 첨자/아래 첨자/보통",
+      "keys": "Ctrl+Alt+A",
+      "menuPath": "서식-글자 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "16.16",
+      "section": "[서식] 메뉴",
+      "context": "글자를 블록으로 선택한 상태에서",
+      "feature": "검정 글자색",
+      "keys": "Ctrl+M,K",
+      "menuPath": "서식-글자 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "16.17",
+      "section": "[서식] 메뉴",
+      "context": "글자를 블록으로 선택한 상태에서",
+      "feature": "빨강 글자 색",
+      "keys": "Ctrl+M,R",
+      "menuPath": "서식-글자 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "16.18",
+      "section": "[서식] 메뉴",
+      "context": "글자를 블록으로 선택한 상태에서",
+      "feature": "파랑 글자 색",
+      "keys": "Ctrl+M,B",
+      "menuPath": "서식-글자 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "16.19",
+      "section": "[서식] 메뉴",
+      "context": "글자를 블록으로 선택한 상태에서",
+      "feature": "자주 글자 색",
+      "keys": "Ctrl+M,D",
+      "menuPath": "서식-글자 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "16.20",
+      "section": "[서식] 메뉴",
+      "context": "글자를 블록으로 선택한 상태에서",
+      "feature": "초록 글자 색",
+      "keys": "Ctrl+M,G",
+      "menuPath": "서식-글자 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "16.21",
+      "section": "[서식] 메뉴",
+      "context": "글자를 블록으로 선택한 상태에서",
+      "feature": "노랑 글자 색",
+      "keys": "Ctrl+M,Y",
+      "menuPath": "서식-글자 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "16.22",
+      "section": "[서식] 메뉴",
+      "context": "글자를 블록으로 선택한 상태에서",
+      "feature": "청록 글자 색",
+      "keys": "Ctrl+M,C",
+      "menuPath": "서식-글자 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "16.23",
+      "section": "[서식] 메뉴",
+      "context": "글자를 블록으로 선택한 상태에서",
+      "feature": "흰색 글자 색",
+      "keys": "Ctrl+M,W",
+      "menuPath": "서식-글자 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "17.1",
+      "section": "[서식] 메뉴",
+      "context": "문단 속성 관련 단축키",
+      "feature": "빠른 내어쓰기\n(두 번째 줄부터 현재 커서 위치에 맞추어 정렬)",
+      "keys": "Shift+Tab",
+      "menuPath": "서식-문단 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "17.2",
+      "section": "[서식] 메뉴",
+      "context": "문단 속성 관련 단축키",
+      "feature": "왼쪽 여백 줄이기",
+      "keys": "Ctrl+Alt+F5/Ctrl+Shift+E",
+      "menuPath": "서식-문단 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "17.3",
+      "section": "[서식] 메뉴",
+      "context": "문단 속성 관련 단축키",
+      "feature": "왼쪽 여백 늘이기",
+      "keys": "Ctrl+Alt+F6/Ctrl+Shift+G",
+      "menuPath": "서식-문단 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "17.4",
+      "section": "[서식] 메뉴",
+      "context": "문단 속성 관련 단축키",
+      "feature": "오른쪽 여백 늘이기",
+      "keys": "Ctrl+Alt+F7/Ctrl+Shift+D",
+      "menuPath": "서식-문단 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "17.5",
+      "section": "[서식] 메뉴",
+      "context": "문단 속성 관련 단축키",
+      "feature": "오른쪽 여백 줄이기",
+      "keys": "Ctrl+Alt+F8/Ctrl+Shift+F",
+      "menuPath": "서식-문단 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "17.6",
+      "section": "[서식] 메뉴",
+      "context": "문단 속성 관련 단축키",
+      "feature": "첫 줄 내어쓰기",
+      "keys": "Ctrl+F5/Ctrl+Shift+O",
+      "menuPath": "서식-문단 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "17.7",
+      "section": "[서식] 메뉴",
+      "context": "문단 속성 관련 단축키",
+      "feature": "첫 줄 들여 쓰기",
+      "keys": "Ctrl+F6/Ctrl+Shift+I",
+      "menuPath": "서식-문단 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "17.8",
+      "section": "[서식] 메뉴",
+      "context": "문단 속성 관련 단축키",
+      "feature": "양쪽 여백 줄이기",
+      "keys": "Ctrl+F7",
+      "menuPath": "서식-문단 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "17.9",
+      "section": "[서식] 메뉴",
+      "context": "문단 속성 관련 단축키",
+      "feature": "양쪽 여백 늘이기",
+      "keys": "Ctrl+F8",
+      "menuPath": "서식-문단 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "17.10",
+      "section": "[서식] 메뉴",
+      "context": "문단 속성 관련 단축키",
+      "feature": "줄 간격 넓게",
+      "keys": "Alt+Shift+Z/Ctrl+Shift+W",
+      "menuPath": "서식-문단 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "17.11",
+      "section": "[서식] 메뉴",
+      "context": "문단 속성 관련 단축키",
+      "feature": "줄 간격 좁게",
+      "keys": "Alt+Shift+A/Ctrl+Shift+Q",
+      "menuPath": "서식-문단 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "17.12",
+      "section": "[서식] 메뉴",
+      "context": "문단 속성 관련 단축키",
+      "feature": "양쪽 정렬",
+      "keys": "Ctrl+Shift+M",
+      "menuPath": "서식-문단 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "17.13",
+      "section": "[서식] 메뉴",
+      "context": "문단 속성 관련 단축키",
+      "feature": "왼쪽 정렬",
+      "keys": "Ctrl+Shift+L",
+      "menuPath": "서식-문단 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "17.14",
+      "section": "[서식] 메뉴",
+      "context": "문단 속성 관련 단축키",
+      "feature": "오른쪽 정렬",
+      "keys": "Ctrl+Shift+R",
+      "menuPath": "서식-문단 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "17.15",
+      "section": "[서식] 메뉴",
+      "context": "문단 속성 관련 단축키",
+      "feature": "가운데 정렬",
+      "keys": "Ctrl+Shift+C",
+      "menuPath": "서식-문단 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "17.16",
+      "section": "[서식] 메뉴",
+      "context": "문단 속성 관련 단축키",
+      "feature": "배분 정렬",
+      "keys": "Ctrl+Shift+T",
+      "menuPath": "서식-문단 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "18.1",
+      "section": "[쪽] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "편집 용지",
+      "keys": "F7",
+      "menuPath": "쪽-편집 용지",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "18.2",
+      "section": "[쪽] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "머리말/꼬리말",
+      "keys": "Ctrl+N,H",
+      "menuPath": "쪽-머리말/꼬리말",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "18.3",
+      "section": "[쪽] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "쪽 번호 매기기",
+      "keys": "Ctrl+N,P",
+      "menuPath": "쪽-쪽 번호 매기기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "18.4",
+      "section": "[쪽] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "감추기",
+      "keys": "Ctrl+N,S",
+      "menuPath": "쪽-감추기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "18.5",
+      "section": "[쪽] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "구역 설정",
+      "keys": "Ctrl+N,G",
+      "menuPath": "쪽-구역 설정",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "18.6",
+      "section": "[쪽] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "쪽 나누기",
+      "keys": "Ctrl+Enter/Ctrl+J",
+      "menuPath": "쪽-쪽 나누기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "18.7",
+      "section": "[쪽] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "단 나누기",
+      "keys": "Ctrl+Shift+Enter",
+      "menuPath": "쪽-단 나누기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "18.8",
+      "section": "[쪽] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "단 설정 나누기",
+      "keys": "Ctrl+Alt+Enter",
+      "menuPath": "쪽-단 설정 나누기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "18.9",
+      "section": "[쪽] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "구역 나누기",
+      "keys": "Alt+Shift+Enter",
+      "menuPath": "쪽-구역 나누기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "18.10",
+      "section": "[쪽] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "강제 줄 나누기",
+      "keys": "Shift+Enter",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "19.1",
+      "section": "[검토] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "맞춤법",
+      "keys": "F8",
+      "menuPath": "도구-맞춤법",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "19.2",
+      "section": "[검토] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "한컴 사전",
+      "keys": "Shift+F6/F12",
+      "menuPath": "검토-한컴 사전",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "19.3",
+      "section": "[검토] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "한자 사전",
+      "keys": "Shift+F9",
+      "menuPath": "검토-한자 사전",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "19.4",
+      "section": "[검토] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "유의어/반의어 사전",
+      "keys": "Ctrl+F12",
+      "menuPath": "검토-유의어/반의어 사전",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "20.1",
+      "section": "[도구] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "맞춤법",
+      "keys": "F8",
+      "menuPath": "도구-맞춤법",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "20.2",
+      "section": "[도구] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "한컴 사전",
+      "keys": "Shift+F6/F12",
+      "menuPath": "도구-한컴 사전",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "20.3",
+      "section": "[도구] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "한자 사전",
+      "keys": "Shift+F9",
+      "menuPath": "도구-한자 사전",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "20.4",
+      "section": "[도구] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "유의어/반의어 사전",
+      "keys": "Ctrl+F12",
+      "menuPath": "도구-유의어/반의어 사전",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "20.5",
+      "section": "[도구] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "빠른 교정 내용",
+      "keys": "Shift+F8",
+      "menuPath": "도구-빠른 교정-빠른 교정 내용",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "20.6",
+      "section": "[도구] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "글자판 바꾸기",
+      "keys": "Alt+F2",
+      "menuPath": "도구-글자판-글자판 바꾸기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "20.7",
+      "section": "[도구] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "글자판 보기",
+      "keys": "Alt+F1",
+      "menuPath": "도구-글자판-글자판 보기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "20.8",
+      "section": "[도구] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "한/영 자판 전환 (1, 2 글자판)",
+      "keys": "왼쪽 Shift+SpaceBar",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "20.9",
+      "section": "[도구] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "3, 4 글자판 전환",
+      "keys": "오른쪽 Shift+SpaceBar",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "20.10",
+      "section": "[도구] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "스크립트 매크로 정의",
+      "keys": "Alt+Shift+H",
+      "menuPath": "도구-스크립트 매크로-매크로 정의",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "20.11",
+      "section": "[도구] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "스크립트 매크로 중지",
+      "keys": "Alt+Shift+X",
+      "menuPath": "도구-스크립트 매크로-매크로 중지",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "20.12",
+      "section": "[도구] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "매크로 실행",
+      "keys": "Alt+Shift+L",
+      "menuPath": "도구-스크립트 매크로-매크로 실행",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "20.13",
+      "section": "[도구] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "매크로1",
+      "keys": "Alt+Shift+1~10, -",
+      "menuPath": "도구-스크립트 매크로-매크로 실행",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "20.14",
+      "section": "[도구] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "매크로2",
+      "keys": "Alt+1~10, -",
+      "menuPath": "도구-스크립트 매크로-매크로 실행",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "20.15",
+      "section": "[도구] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "차례 새로 고침",
+      "keys": "Ctrl+K,U",
+      "menuPath": "도구-차례/색인-차례 새로 고침-차례 새로 고침",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "20.16",
+      "section": "[도구] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "모든 차례 새로 고침",
+      "keys": "Ctrl+K,A",
+      "menuPath": "도구-차례/색인-차례 새로 고침-모든 차례 새로 고침",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "20.17",
+      "section": "[도구] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "제목 차례 표시",
+      "keys": "Ctrl+K,T",
+      "menuPath": "도구-차례/색인-제목 차례 표시",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "20.18",
+      "section": "[도구] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "차례 숨기기",
+      "keys": "Ctrl+K,S",
+      "menuPath": "도구-차례/색인-차례 숨기기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "20.19",
+      "section": "[도구] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "색인 표시 달기",
+      "keys": "Ctrl+K,I",
+      "menuPath": "도구-차례/색인-색인 표시",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "20.20",
+      "section": "[도구] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "메일 머지 필드 넣기",
+      "keys": "Ctrl+K,M",
+      "menuPath": "도구-메일 머지-메일 머지 필드 넣기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "20.21",
+      "section": "[도구] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "메일 머지 만들기",
+      "keys": "Alt+M",
+      "menuPath": "도구-메일 머지-메일 머지 만들기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "20.22",
+      "section": "[도구] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "프레젠테이션 실행",
+      "keys": "Ctrl+K,P",
+      "menuPath": "도구-프레젠테이션-프레젠테이션 실행",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "21.1",
+      "section": "[표] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "표 만들기",
+      "keys": "Ctrl+N,T",
+      "menuPath": "입력-표-표 만들기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "22.1",
+      "section": "[표] 메뉴",
+      "context": "표를 선택한 상태에서",
+      "feature": "첫째 셀 선택",
+      "keys": "F5",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "22.2",
+      "section": "[표] 메뉴",
+      "context": "표를 선택한 상태에서",
+      "feature": "표 뒤집기",
+      "keys": "T",
+      "menuPath": "표-표 뒤집기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "22.3",
+      "section": "[표] 메뉴",
+      "context": "표를 선택한 상태에서",
+      "feature": "개체 속성",
+      "keys": "P",
+      "menuPath": "(빠른 메뉴)개체 속성",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "22.4",
+      "section": "[표] 메뉴",
+      "context": "표를 선택한 상태에서",
+      "feature": "오려 두기",
+      "keys": "Ctrl+X/Shift+Delete",
+      "menuPath": "(빠른 메뉴)오려 두기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "22.5",
+      "section": "[표] 메뉴",
+      "context": "표를 선택한 상태에서",
+      "feature": "복사하기",
+      "keys": "Ctrl+C/Ctrl+Insert",
+      "menuPath": "(빠른 메뉴)복사하기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "22.6",
+      "section": "[표] 메뉴",
+      "context": "표를 선택한 상태에서",
+      "feature": "지우기",
+      "keys": "Ctrl+E",
+      "menuPath": "(빠른 메뉴)지우기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "22.7",
+      "section": "[표] 메뉴",
+      "context": "표를 선택한 상태에서",
+      "feature": "맨 앞으로",
+      "keys": "Shift+Page Up",
+      "menuPath": "(빠른 메뉴)순서-맨 앞으로",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "22.8",
+      "section": "[표] 메뉴",
+      "context": "표를 선택한 상태에서",
+      "feature": "맨 뒤로",
+      "keys": "Shift+Page Down",
+      "menuPath": "(빠른 메뉴)순서-맨 뒤로",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "22.9",
+      "section": "[표] 메뉴",
+      "context": "표를 선택한 상태에서",
+      "feature": "글 앞으로",
+      "keys": "Shift+Home",
+      "menuPath": "(빠른 메뉴)배치-글 앞으로",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "22.10",
+      "section": "[표] 메뉴",
+      "context": "표를 선택한 상태에서",
+      "feature": "글 뒤로",
+      "keys": "Shift+End",
+      "menuPath": "(빠른 메뉴)배치-글 뒤로",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "22.11",
+      "section": "[표] 메뉴",
+      "context": "표를 선택한 상태에서",
+      "feature": "캡션 넣기",
+      "keys": "Ctrl+N,C",
+      "menuPath": "(빠른 메뉴)캡션 넣기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "22.12",
+      "section": "[표] 메뉴",
+      "context": "표를 선택한 상태에서",
+      "feature": "테두리 속성",
+      "keys": "L",
+      "menuPath": "(빠른 메뉴)개체 속성-테두리 탭",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "22.13",
+      "section": "[표] 메뉴",
+      "context": "표를 선택한 상태에서",
+      "feature": "배경 속성",
+      "keys": "C",
+      "menuPath": "(빠른 메뉴)개체 속성-채우기 탭",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "23.1",
+      "section": "[표] 메뉴",
+      "context": "표 내부에 커서를 둔 상태에서",
+      "feature": "현재 셀 선택(방향키 누르면 셀 블록 이동)",
+      "keys": "F5",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "23.2",
+      "section": "[표] 메뉴",
+      "context": "표 내부에 커서를 둔 상태에서",
+      "feature": "현재 셀 선택(방향키 누르면 셀 블록 확장)",
+      "keys": "Shift+F5",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "23.3",
+      "section": "[표] 메뉴",
+      "context": "표 내부에 커서를 둔 상태에서",
+      "feature": "셀 단위로 커서 이동",
+      "keys": "Alt+방향키",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "23.4",
+      "section": "[표] 메뉴",
+      "context": "표 내부에 커서를 둔 상태에서",
+      "feature": "줄 추가하기",
+      "keys": "Ctrl+Enter",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "23.5",
+      "section": "[표] 메뉴",
+      "context": "표 내부에 커서를 둔 상태에서",
+      "feature": "줄 지우기",
+      "keys": "Ctrl+BackSpace",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "23.6",
+      "section": "[표] 메뉴",
+      "context": "표 내부에 커서를 둔 상태에서",
+      "feature": "표 안에서 다른 셀로 이동(정방향)",
+      "keys": "Tab",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "23.7",
+      "section": "[표] 메뉴",
+      "context": "표 내부에 커서를 둔 상태에서",
+      "feature": "표 안에서 다른 셀로 이동(역방향)",
+      "keys": "Shift+Tab",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "23.8",
+      "section": "[표] 메뉴",
+      "context": "표 내부에 커서를 둔 상태에서",
+      "feature": "표 안에 탭 삽입",
+      "keys": "Ctrl+Tab",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "23.9",
+      "section": "[표] 메뉴",
+      "context": "표 내부에 커서를 둔 상태에서",
+      "feature": "빠른 내어쓰기\n(두 번째 줄부터 현재 커서 위치에 맞추어 정렬)",
+      "keys": "Ctrl+Shift+Tab",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "23.10",
+      "section": "[표] 메뉴",
+      "context": "표 내부에 커서를 둔 상태에서",
+      "feature": "표 안에 표 만들기",
+      "keys": "Ctrl+N,T",
+      "menuPath": "입력-표-표 만들기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "23.11",
+      "section": "[표] 메뉴",
+      "context": "표 내부에 커서를 둔 상태에서",
+      "feature": "표 나누기",
+      "keys": "Ctrl+N,A",
+      "menuPath": "표-표 나누기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "23.12",
+      "section": "[표] 메뉴",
+      "context": "표 내부에 커서를 둔 상태에서",
+      "feature": "표 붙이기",
+      "keys": "Ctrl+N,Z",
+      "menuPath": "표-표 붙이기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "23.13",
+      "section": "[표] 메뉴",
+      "context": "표 내부에 커서를 둔 상태에서",
+      "feature": "붙이기",
+      "keys": "Ctrl+V",
+      "menuPath": "(빠른 메뉴)붙이기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "23.14",
+      "section": "[표] 메뉴",
+      "context": "표 내부에 커서를 둔 상태에서",
+      "feature": "문자표",
+      "keys": "Ctrl+F10",
+      "menuPath": "(빠른 메뉴)문자표",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "23.15",
+      "section": "[표] 메뉴",
+      "context": "표 내부에 커서를 둔 상태에서",
+      "feature": "인쇄",
+      "keys": "Alt+P",
+      "menuPath": "(빠른 메뉴)인쇄",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "23.16",
+      "section": "[표] 메뉴",
+      "context": "표 내부에 커서를 둔 상태에서",
+      "feature": "글자 모양",
+      "keys": "Alt+L",
+      "menuPath": "(빠른 메뉴)글자 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "23.17",
+      "section": "[표] 메뉴",
+      "context": "표 내부에 커서를 둔 상태에서",
+      "feature": "문단 모양",
+      "keys": "Alt+T",
+      "menuPath": "(빠른 메뉴)문단 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "23.18",
+      "section": "[표] 메뉴",
+      "context": "표 내부에 커서를 둔 상태에서",
+      "feature": "스타일",
+      "keys": "F6",
+      "menuPath": "(빠른 메뉴)스타일",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "23.19",
+      "section": "[표] 메뉴",
+      "context": "표 내부에 커서를 둔 상태에서",
+      "feature": "문단 번호 모양",
+      "keys": "Ctrl+K,N",
+      "menuPath": "(빠른 메뉴)문단 번호 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "23.20",
+      "section": "[표] 메뉴",
+      "context": "표 내부에 커서를 둔 상태에서",
+      "feature": "줄/칸 추가하기",
+      "keys": "Alt+Insert",
+      "menuPath": "(빠른 메뉴)줄/칸 추가하기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "23.21",
+      "section": "[표] 메뉴",
+      "context": "표 내부에 커서를 둔 상태에서",
+      "feature": "줄/칸 지우기",
+      "keys": "Alt+Delete",
+      "menuPath": "(빠른 메뉴)줄/칸 지우기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "23.22",
+      "section": "[표] 메뉴",
+      "context": "표 내부에 커서를 둔 상태에서",
+      "feature": "가로 합계",
+      "keys": "Ctrl+Shift+H",
+      "menuPath": "(빠른 메뉴)쉬운 계산식-가로 합계",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "23.23",
+      "section": "[표] 메뉴",
+      "context": "표 내부에 커서를 둔 상태에서",
+      "feature": "세로 합계",
+      "keys": "Ctrl+Shift+V",
+      "menuPath": "(빠른 메뉴)쉬운 계산식-세로 합계",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "23.24",
+      "section": "[표] 메뉴",
+      "context": "표 내부에 커서를 둔 상태에서",
+      "feature": "가로 평균",
+      "keys": "Ctrl+Shift+J",
+      "menuPath": "(빠른 메뉴)쉬운 계산식-가로 평균",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "23.25",
+      "section": "[표] 메뉴",
+      "context": "표 내부에 커서를 둔 상태에서",
+      "feature": "세로 평균",
+      "keys": "Ctrl+Shift+B",
+      "menuPath": "(빠른 메뉴)쉬운 계산식-세로 평균",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "23.26",
+      "section": "[표] 메뉴",
+      "context": "표 내부에 커서를 둔 상태에서",
+      "feature": "가로 곱",
+      "keys": "Ctrl+Shift+K",
+      "menuPath": "(빠른 메뉴)쉬운 계산식-가로 곱",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "23.27",
+      "section": "[표] 메뉴",
+      "context": "표 내부에 커서를 둔 상태에서",
+      "feature": "세로 곱",
+      "keys": "Ctrl+Shift+N",
+      "menuPath": "(빠른 메뉴)쉬운 계산식-세로 곱",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "23.28",
+      "section": "[표] 메뉴",
+      "context": "표 내부에 커서를 둔 상태에서",
+      "feature": "계산식",
+      "keys": "Ctrl+N,F",
+      "menuPath": "(빠른 메뉴)계산식",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "24.1",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "셀 확장 모드",
+      "keys": "F3 또는 F5",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "24.2",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "칸 전체 블록",
+      "keys": "F7",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "24.3",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "줄 전체 블록",
+      "keys": "F8",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "24.4",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "현재 셀의 크기 조절",
+      "keys": "Shift+화살표",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "24.5",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "현재 셀이 속한 가로줄/세로 칸 전체 크기",
+      "keys": "Ctrl+화살표",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "24.6",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "표 크기를 고정한 채 가로줄/세로 칸 크기",
+      "keys": "Alt+화살표",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "24.7",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "편집 모드로 전환",
+      "keys": "Enter",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "24.8",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "표 안에서 다른 셀로 이동(정방향)",
+      "keys": "Tab",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "24.9",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "표 안에서 다른 셀로 이동(역방향)",
+      "keys": "Shift+Tab",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "24.10",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "줄 추가하기",
+      "keys": "Ctrl+Enter",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "24.11",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "줄 지우기",
+      "keys": "Ctrl+BackSpace",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "24.12",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "표 빠져나가기",
+      "keys": "Shift+Esc",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "24.13",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "표 안에 표 만들기",
+      "keys": "Ctrl+N,T",
+      "menuPath": "입력-표-표 만들기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "24.14",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "줄/칸 추가하기",
+      "keys": "Alt+Insert",
+      "menuPath": "표-줄/칸 추가하기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "24.15",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "줄/칸 지우기",
+      "keys": "Alt+Delete",
+      "menuPath": "표-줄/칸 지우기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "24.16",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "오려 두기",
+      "keys": "Ctrl+X",
+      "menuPath": "(빠른 메뉴)오려 두기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "24.17",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "복사하기",
+      "keys": "Ctrl+C",
+      "menuPath": "(빠른 메뉴)복사하기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "24.18",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "셀 지우기",
+      "keys": "Ctrl+E",
+      "menuPath": "(빠른 메뉴)셀 지우기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "24.19",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "글자 모양",
+      "keys": "Alt+L",
+      "menuPath": "(빠른 메뉴)글자 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "24.20",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "문단 모양",
+      "keys": "Alt+T",
+      "menuPath": "(빠른 메뉴)문단 모양",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "24.21",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "스타일",
+      "keys": "F6",
+      "menuPath": "(빠른 메뉴)스타일",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "24.22",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "표/셀 속성",
+      "keys": "P",
+      "menuPath": "(빠른 메뉴)표/셀 속성",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "24.23",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "각 셀 테두리 모양",
+      "keys": "L",
+      "menuPath": "(빠른 메뉴)셀 테두리/배경-각 셀마다 적용-테두리 탭",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "24.24",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "각 셀 배경 모양",
+      "keys": "C",
+      "menuPath": "(빠른 메뉴)셀 테두리/배경-각 셀마다 적용-배경 탭",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "24.25",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "여러 셀 테두리 모양",
+      "keys": "B",
+      "menuPath": "(빠른 메뉴)셀 테두리/배경-하나의 셀처럼 적용-테두리 탭",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "24.26",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "여러 셀 배경 모양",
+      "keys": "F",
+      "menuPath": "(빠른 메뉴)셀 테두리/배경-하나의 셀처럼 적용-배경 탭",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "24.27",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "셀 내용 지우기",
+      "keys": "Ctrl+E 또는 Delete",
+      "menuPath": "(빠른 메뉴)셀 지우기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "24.28",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "줄 높이를 같게",
+      "keys": "H",
+      "menuPath": "(빠른 메뉴)셀 높이를 같게",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "24.29",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "줄 너비를 같게",
+      "keys": "W",
+      "menuPath": "(빠른 메뉴)셀 너비를 같게",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "24.30",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "셀 합치기",
+      "keys": "M",
+      "menuPath": "(빠른 메뉴)셀 합치기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "24.31",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "셀 나누기",
+      "keys": "S",
+      "menuPath": "(빠른 메뉴)셀 나누기",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "24.32",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "블록 합계",
+      "keys": "Ctrl+Shift+S",
+      "menuPath": "(빠른 메뉴)블록 계산식-블록 합계",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "24.33",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "블록 평균",
+      "keys": "Ctrl+Shift+A",
+      "menuPath": "(빠른 메뉴)블록 계산식-블록 평균",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "24.34",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "블록 곱",
+      "keys": "Ctrl+Shift+P",
+      "menuPath": "(빠른 메뉴)블록 계산식-블록 곱",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "25.1",
+      "section": "기타",
+      "context": "기타 단축키",
+      "feature": "도움말",
+      "keys": "F1",
+      "menuPath": "도움말-내용",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "25.2",
+      "section": "기타",
+      "context": "기타 단축키",
+      "feature": "메뉴",
+      "keys": "F10/Alt",
+      "menuPath": "Alt를 누르면 각 메뉴 및 화면 구성 요소에 할당된 키보드 키를 보여줍니다. Alt 키와 각 메뉴에 표시되는 키를 차례대로 누르면 마우스 없이 해당 메뉴를 실행할 수 있습니다.",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "25.3",
+      "section": "기타",
+      "context": "기타 단축키",
+      "feature": "빠른 메뉴",
+      "keys": "Shift+F10",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "25.4",
+      "section": "기타",
+      "context": "기타 단축키",
+      "feature": "고정폭 빈칸",
+      "keys": "Alt+SpaceBar",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "25.5",
+      "section": "기타",
+      "context": "기타 단축키",
+      "feature": "묶음 빈칸",
+      "keys": "Ctrl+Alt+SpaceBar",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "25.6",
+      "section": "기타",
+      "context": "기타 단축키",
+      "feature": "무른 하이픈(-)",
+      "keys": "Ctrl+Shift+-",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "25.7",
+      "section": "기타",
+      "context": "기타 단축키",
+      "feature": "개체 선택",
+      "keys": "F11",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    },
+    {
+      "id": "25.8",
+      "section": "기타",
+      "context": "기타 단축키",
+      "feature": "도구 상자 단계별 접기/펴기",
+      "keys": "Ctrl+F1",
+      "menuPath": "-",
+      "implementation": "not-implemented",
+      "runtimeVerification": "not-tested"
+    }
+  ]
+}

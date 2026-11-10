@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "observationId": "cua-live-dialog-observations-2026-11-11",
+  "method": "Authenticated editor UI; opened dialogs and cancelled without confirming changes. No text entry, save, clipboard write, file upload or shortcut execution performed.",
+  "dialogs": [
+    {
+      "id": "dialog_char_shape",
+      "opened": true,
+      "tabsOpened": [
+        "기본",
+        "확장"
+      ],
+      "fieldsByTab": {
+        "기본": [
+          "기준 크기",
+          "언어",
+          "상대 크기",
+          "글자 위치",
+          "글꼴",
+          "장평",
+          "자간",
+          "진하게",
+          "기울임",
+          "밑줄",
+          "취소선",
+          "외곽선",
+          "그림자",
+          "양각",
+          "음각",
+          "위 첨자",
+          "아래 첨자",
+          "보통 모양",
+          "글자 색",
+          "음영 색"
+        ],
+        "확장": [
+          "밑줄 위치·모양·색",
+          "취소선 모양·색",
+          "테두리 종류·굵기·색",
+          "배경 면 색·무늬 색·무늬 모양"
+        ]
+      },
+      "closedWith": "취소"
+    },
+    {
+      "id": "dialog_para_shape",
+      "opened": true,
+      "tabsOpened": [
+        "기본"
+      ],
+      "tabsPresent": [
+        "기본",
+        "테두리/배경"
+      ],
+      "fieldsByTab": {
+        "기본": [
+          "양쪽·왼쪽·가운데·오른쪽·배분·나눔 정렬",
+          "왼쪽·오른쪽 여백",
+          "보통·들여쓰기·내어쓰기",
+          "줄 간격",
+          "문단 위·아래",
+          "편집 용지의 줄 격자 사용",
+          "한글 단위",
+          "영문 단위",
+          "최소 공백"
+        ]
+      },
+      "closedWith": "취소"
+    },
+    {
+      "id": "dialog_edit_table",
+      "opened": true,
+      "tabsOpened": [
+        "기본",
+        "여백/캡션",
+        "표",
+        "셀"
+      ],
+      "fieldsByTab": {
+        "기본": [
+          "너비·높이",
+          "크기 고정",
+          "글자처럼 취급",
+          "본문과의 배치",
+          "본문 위치",
+          "가로·세로 위치 기준",
+          "쪽 영역 안으로 제한",
+          "서로 겹침 허용",
+          "개체와 조판 부호를 항상 같은 쪽에 놓기"
+        ],
+        "여백/캡션": [
+          "바깥 여백",
+          "캡션 크기",
+          "개체와의 간격",
+          "여백 부분까지 너비 확대",
+          "한 줄로 입력"
+        ],
+        "표": [
+          "여러 쪽 지원",
+          "쪽 경계에서",
+          "제목 줄 자동 반복",
+          "자동으로 나뉜 표의 경계선 설정",
+          "모든 셀의 안 여백"
+        ],
+        "셀": [
+          "셀 크기 적용",
+          "너비·높이",
+          "안 여백 지정",
+          "셀 보호",
+          "제목 셀",
+          "세로 정렬",
+          "필드 이름",
+          "양식 모드에서 편집 가능"
+        ]
+      },
+      "staticRuntimeDifference": "Static definitions include Border and Background tabs; those were not present in this runtime context.",
+      "closedWith": "취소"
+    },
+    {
+      "id": "dialog_page_setup",
+      "opened": true,
+      "fields": [
+        "용지 종류",
+        "폭",
+        "길이",
+        "세로·가로 방향",
+        "제본 왼쪽·맞쪽·위로",
+        "위·아래·좌·우·머리말·꼬리말·제본 여백",
+        "적용 범위"
+      ],
+      "closedWith": "취소"
+    },
+    {
+      "id": "dialog_insert_table",
+      "opened": false,
+      "attempt": "Selected the table creation menu item; no modal was visible in the current original-document context. No insertion fields were filled or confirmed.",
+      "next": "Recheck using a blank test document."
+    }
+  ]
+}

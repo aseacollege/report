@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "recordedDate": "2026-11-11",
+  "evidence": [
+    {
+      "id": "ev_d766c31fdd7718a74be084a9eb138fd532b849d63687ca39a4dd56f6ffac6eaa",
+      "target": "public-webhwp-ui-xml",
+      "domSha256": "f800d49d6ac55facec52775fb6d4a65786f2b64792afff61bd1eae38c2ff8b1b",
+      "nodeCount": 2909
+    },
+    {
+      "id": "ev_85d5db73dd4a49fa480d2e451673fb857496c6addaed577cb3d1dd9a43404fd1",
+      "target": "public-common-ui-xml",
+      "domSha256": "9975174c76150bc33c0d442be068d04858184757979ccbe2af8ecfb3d66b4ad4",
+      "nodeCount": 1915
+    },
+    {
+      "id": "ev_a750e7c291f797865978967b4081e65ecc088b2e2d48f832e7435225b2ceedee",
+      "target": "official-desktop-hwp-2024-shortcut-table",
+      "responseSha256": "89c63dede3ed0694c785a0955d0f798bd5b2a81b243dfc389b266b96c57f14f6",
+      "tableCount": 25,
+      "rowCount": 340
+    },
+    {
+      "id": "ev_b111b832b26a0493c567a658f84b031613239271b8bd3187b01e8b0d6a27b83d",
+      "target": "official-web-hwp-shortcut-table",
+      "tableCount": 24,
+      "rowCount": 251
+    }
+  ],
+  "localUiObservations": [
+    "cua-live-menu-inventory-2026-11-11",
+    "cua-live-dialog-observations-2026-11-11"
+  ],
+  "notes": [
+    "Local UI observation identifiers are analyst-assigned references, not REA Evidence IDs.",
+    "Raw shared-document captures and session values are not published.",
+    "Original XML resources are not committed; normalized UI facts and reference links are committed.",
+    "Static definitions were checked with the .NET XML parser: 2909 and 1915 element nodes matched the extracted inventories.",
+    "Network body collection on the shared report was rejected by automatic review. Subsequent network body collection was limited to separate public help pages, never the report.",
+    "Not a reconstruction of server code or a claim of full feature execution coverage."
+  ]
+}

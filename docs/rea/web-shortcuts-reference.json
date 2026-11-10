@@ -1,0 +1,2207 @@
+{
+  "schemaVersion": 1,
+  "profile": "한컴독스 Web v2 · 비교용",
+  "source": {
+    "url": "https://webhwp.hancomdocs.com/cloud-hwp/help/Hwp/ko_kr/shortcut/shortcut.htm",
+    "evidenceId": "ev_b111b832b26a0493c567a658f84b031613239271b8bd3187b01e8b0d6a27b83d"
+  },
+  "rowCount": 251,
+  "scope": "All data rows in the selected official shortcut table; includes context-specific, pointer-assisted and OS/browser-reserved operations. Not all possible custom user shortcuts.",
+  "items": [
+    {
+      "id": "1.1",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "빈칸 삽입",
+      "windowsKeys": "SpaceBar",
+      "macKeys": "SpaceBar",
+      "menuPath": "-"
+    },
+    {
+      "id": "1.2",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "문단 나누기",
+      "windowsKeys": "Enter",
+      "macKeys": "Return",
+      "menuPath": "-"
+    },
+    {
+      "id": "1.3",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "한 글자 왼쪽으로",
+      "windowsKeys": "←",
+      "macKeys": "←",
+      "menuPath": "-"
+    },
+    {
+      "id": "1.4",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "한 글자 오른쪽으로",
+      "windowsKeys": "→",
+      "macKeys": "→",
+      "menuPath": "-"
+    },
+    {
+      "id": "1.5",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "한 줄 아래로",
+      "windowsKeys": "↓",
+      "macKeys": "↓",
+      "menuPath": "-"
+    },
+    {
+      "id": "1.6",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "한 줄 위로",
+      "windowsKeys": "↑",
+      "macKeys": "↑",
+      "menuPath": "-"
+    },
+    {
+      "id": "1.7",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "한 단어 오른쪽으로",
+      "windowsKeys": "Ctrl+→",
+      "macKeys": "⌥+→",
+      "menuPath": "-"
+    },
+    {
+      "id": "1.8",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "한 단어 오른쪽으로\n(문단 나눔, 줄 나눔 포함)",
+      "windowsKeys": "Alt+Shift+→",
+      "macKeys": "⌥+⇧+→",
+      "menuPath": "-"
+    },
+    {
+      "id": "1.9",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "한 단어 왼쪽으로",
+      "windowsKeys": "Ctrl+←",
+      "macKeys": "⌥+←",
+      "menuPath": "-"
+    },
+    {
+      "id": "1.10",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "한 단어 왼쪽으로\n(문단 나눔, 줄 나눔 포함)",
+      "windowsKeys": "Alt+Shift+←",
+      "macKeys": "⌥+⇧+←",
+      "menuPath": "-"
+    },
+    {
+      "id": "1.11",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "한 문단 아래로",
+      "windowsKeys": "Ctrl+↓",
+      "macKeys": "⌘+↓",
+      "menuPath": "-"
+    },
+    {
+      "id": "1.12",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "한 문단 위로",
+      "windowsKeys": "Ctrl+↑",
+      "macKeys": "⌘+↑",
+      "menuPath": "-"
+    },
+    {
+      "id": "1.13",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "왼쪽 단으로",
+      "windowsKeys": "Ctrl+Alt+←",
+      "macKeys": "⌃+⌥+←",
+      "menuPath": "-"
+    },
+    {
+      "id": "1.14",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "오른쪽 단으로",
+      "windowsKeys": "Ctrl+Alt+→",
+      "macKeys": "⌃+⌥+→",
+      "menuPath": "-"
+    },
+    {
+      "id": "1.15",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "줄 처음으로",
+      "windowsKeys": "Home",
+      "macKeys": "⌘+←/Home",
+      "menuPath": "-"
+    },
+    {
+      "id": "1.16",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "줄 끝으로",
+      "windowsKeys": "End",
+      "macKeys": "⌘+→/End",
+      "menuPath": "-"
+    },
+    {
+      "id": "1.17",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "화면 첫 줄로",
+      "windowsKeys": "Ctrl+Home",
+      "macKeys": "⌃+⌘+←/⌃+Home",
+      "menuPath": "-"
+    },
+    {
+      "id": "1.18",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "화면 끝줄로",
+      "windowsKeys": "Ctrl+End",
+      "macKeys": "⌃+⌘+→/⌃+End",
+      "menuPath": "-"
+    },
+    {
+      "id": "1.19",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "한 화면 앞으로",
+      "windowsKeys": "Page Up",
+      "macKeys": "Page Up",
+      "menuPath": "-"
+    },
+    {
+      "id": "1.20",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "한 화면 뒤로",
+      "windowsKeys": "Page Down",
+      "macKeys": "Page Down",
+      "menuPath": "-"
+    },
+    {
+      "id": "1.21",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "한 쪽 앞으로",
+      "windowsKeys": "Alt+Page Up",
+      "macKeys": "⌥+Page Up/⌘+⌥+↑",
+      "menuPath": "-"
+    },
+    {
+      "id": "1.22",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "한 쪽 뒤로",
+      "windowsKeys": "Alt+Page Down",
+      "macKeys": "⌥+Page Down/⌘+⌥+↓",
+      "menuPath": "-"
+    },
+    {
+      "id": "1.23",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "문서의 처음으로",
+      "windowsKeys": "Ctrl+Alt+Page Up",
+      "macKeys": "⌘+Page Up/⌘+⇧+↑",
+      "menuPath": "-"
+    },
+    {
+      "id": "1.24",
+      "section": "기본 단축키",
+      "context": "커서 이동 관련 단축키",
+      "feature": "문서의 끝으로",
+      "windowsKeys": "Ctrl+Alt+Page Down",
+      "macKeys": "⌘+Page Down/⌘+⇧+↓",
+      "menuPath": "-"
+    },
+    {
+      "id": "2.1",
+      "section": "기본 단축키",
+      "context": "지우기 관련 단축키",
+      "feature": "뒷글자 지우기",
+      "windowsKeys": "Delete",
+      "macKeys": "Delete",
+      "menuPath": "-"
+    },
+    {
+      "id": "2.2",
+      "section": "기본 단축키",
+      "context": "지우기 관련 단축키",
+      "feature": "앞글자 지우기",
+      "windowsKeys": "BackSpace",
+      "macKeys": "BackSpace",
+      "menuPath": "-"
+    },
+    {
+      "id": "2.3",
+      "section": "기본 단축키",
+      "context": "지우기 관련 단축키",
+      "feature": "한 단어 지우기",
+      "windowsKeys": "Ctrl+T",
+      "macKeys": "⌃+T",
+      "menuPath": "-"
+    },
+    {
+      "id": "2.4",
+      "section": "기본 단축키",
+      "context": "지우기 관련 단축키",
+      "feature": "앞 단어 지우기",
+      "windowsKeys": "Ctrl+BackSpace",
+      "macKeys": "⌃+Delete",
+      "menuPath": "-"
+    },
+    {
+      "id": "2.5",
+      "section": "기본 단축키",
+      "context": "지우기 관련 단축키",
+      "feature": "한 줄 지우기",
+      "windowsKeys": "Ctrl+Y",
+      "macKeys": "⌃+Y",
+      "menuPath": "-"
+    },
+    {
+      "id": "2.6",
+      "section": "기본 단축키",
+      "context": "지우기 관련 단축키",
+      "feature": "줄 뒤 지우기",
+      "windowsKeys": "Alt+Y",
+      "macKeys": "⌥+Y",
+      "menuPath": "-"
+    },
+    {
+      "id": "3.1",
+      "section": "[파일] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "새 문서",
+      "windowsKeys": "Alt+N",
+      "macKeys": "파일-새 문서"
+    },
+    {
+      "id": "3.2",
+      "section": "[파일] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "새 탭",
+      "windowsKeys": "Ctrl+Alt+T",
+      "macKeys": "파일- 새 문서-새 탭"
+    },
+    {
+      "id": "3.3",
+      "section": "[파일] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "문서마당",
+      "windowsKeys": "Ctrl+Alt+N",
+      "macKeys": "파일-새 문서-문서마당"
+    },
+    {
+      "id": "3.4",
+      "section": "[파일] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "불러오기",
+      "windowsKeys": "Alt+O",
+      "macKeys": "파일-불러오기"
+    },
+    {
+      "id": "3.5",
+      "section": "[파일] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "저장하기",
+      "windowsKeys": "Ctrl+S",
+      "macKeys": "⌘+S",
+      "menuPath": "파일-저장하기(메뉴를 지원하는 환경인 경우)"
+    },
+    {
+      "id": "3.6",
+      "section": "[파일] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "다른 이름으로 저장하기",
+      "windowsKeys": "Alt+V",
+      "macKeys": "파일-다른 이름으로 저장하기"
+    },
+    {
+      "id": "3.7",
+      "section": "[파일] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "호환 문서",
+      "windowsKeys": "Ctrl+N,D",
+      "macKeys": "파일-호환 문서"
+    },
+    {
+      "id": "3.8",
+      "section": "[파일] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "문서 정보",
+      "windowsKeys": "Ctrl+Q,I/Ctrl+Q,D",
+      "macKeys": "파일-문서 정보"
+    },
+    {
+      "id": "3.9",
+      "section": "[파일] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "편집 용지",
+      "windowsKeys": "F7",
+      "macKeys": "F7",
+      "menuPath": "파일-편집 용지"
+    },
+    {
+      "id": "3.10",
+      "section": "[파일] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "인쇄",
+      "windowsKeys": "Ctrl+P",
+      "macKeys": "⌘+P",
+      "menuPath": "파일-인쇄"
+    },
+    {
+      "id": "3.11",
+      "section": "[파일] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "끝",
+      "windowsKeys": "Alt+X",
+      "macKeys": "파일-끝"
+    },
+    {
+      "id": "3.12",
+      "section": "[파일] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "문서 닫기",
+      "windowsKeys": "Ctrl+F4",
+      "macKeys": "-"
+    },
+    {
+      "id": "3.13",
+      "section": "[파일] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "필드 그룹 반복하기",
+      "windowsKeys": "Ctrl+G,R",
+      "macKeys": "XML 도구 상자-필드 그룹 반복하기"
+    },
+    {
+      "id": "3.14",
+      "section": "[파일] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "필드 그룹 삭제하기",
+      "windowsKeys": "Ctrl+G,D",
+      "macKeys": "XML 도구 상자-필드 그룹 삭제하기"
+    },
+    {
+      "id": "4.1",
+      "section": "[편집] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "되돌리기",
+      "windowsKeys": "Ctrl+Z",
+      "macKeys": "⌘+Z",
+      "menuPath": "-"
+    },
+    {
+      "id": "4.2",
+      "section": "[편집] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "다시 실행",
+      "windowsKeys": "Ctrl+Shift+Z",
+      "macKeys": "⌘+⇧+Z",
+      "menuPath": "-"
+    },
+    {
+      "id": "4.3",
+      "section": "[편집] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "오려 두기",
+      "windowsKeys": "Ctrl+X",
+      "macKeys": "⌘+X",
+      "menuPath": "편집-오려 두기"
+    },
+    {
+      "id": "4.4",
+      "section": "[편집] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "복사하기",
+      "windowsKeys": "Ctrl+C",
+      "macKeys": "⌘+C",
+      "menuPath": "편집-복사하기"
+    },
+    {
+      "id": "4.5",
+      "section": "[편집] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "붙이기",
+      "windowsKeys": "Ctrl+V",
+      "macKeys": "⌘+V",
+      "menuPath": "편집-붙이기"
+    },
+    {
+      "id": "4.6",
+      "section": "[편집] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "모양 복사/붙이기",
+      "windowsKeys": "Ctrl+Alt+C",
+      "macKeys": "⌥+C",
+      "menuPath": "편집-모양 복사"
+    },
+    {
+      "id": "4.7",
+      "section": "[편집] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "지우기",
+      "windowsKeys": "Ctrl+E",
+      "macKeys": "⌘+E",
+      "menuPath": "편집-지우기"
+    },
+    {
+      "id": "4.8",
+      "section": "[편집] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "찾기",
+      "windowsKeys": "Ctrl+F/Ctrl+Q,F",
+      "macKeys": "⌘+F",
+      "menuPath": "-"
+    },
+    {
+      "id": "4.9",
+      "section": "[편집] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "찾아 바꾸기",
+      "windowsKeys": "Ctrl+H/Ctrl+Q,A/Ctrl+F2",
+      "macKeys": "⌘+⇧+H",
+      "menuPath": "-"
+    },
+    {
+      "id": "4.10",
+      "section": "[편집] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "다시 찾기",
+      "windowsKeys": "Ctrl+L",
+      "macKeys": "^+L",
+      "menuPath": "-"
+    },
+    {
+      "id": "4.11",
+      "section": "[편집] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "거꾸로 찾기",
+      "windowsKeys": "Ctrl+Q+L",
+      "macKeys": "^+Q+L",
+      "menuPath": "-"
+    },
+    {
+      "id": "4.12",
+      "section": "[편집] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "줄 바꿈",
+      "windowsKeys": "Shift+Enter",
+      "macKeys": "⇧+Return",
+      "menuPath": "-"
+    },
+    {
+      "id": "4.13",
+      "section": "[편집] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "겹침/삽입 상태 전환",
+      "windowsKeys": "Insert",
+      "macKeys": "⌘+0",
+      "menuPath": "-"
+    },
+    {
+      "id": "4.14",
+      "section": "[편집] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "문단을 위/아래로 이동",
+      "windowsKeys": "Alt+Shift+↑/↓",
+      "macKeys": "⌥+⇧+↑/↓",
+      "menuPath": "-"
+    },
+    {
+      "id": "4.15",
+      "section": "[편집] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "누름틀 고치기",
+      "windowsKeys": "Alt+N,K",
+      "macKeys": "^+N,K",
+      "menuPath": "-"
+    },
+    {
+      "id": "5.1",
+      "section": "[편집] 메뉴",
+      "context": "블록 설정 및 확장 상태에서",
+      "feature": "모두 선택",
+      "windowsKeys": "Ctrl+A",
+      "macKeys": "⌘+A",
+      "menuPath": "편집-모두 선택"
+    },
+    {
+      "id": "5.2",
+      "section": "[편집] 메뉴",
+      "context": "블록 설정 및 확장 상태에서",
+      "feature": "블록 설정",
+      "windowsKeys": "F3",
+      "macKeys": "F3",
+      "menuPath": "-"
+    },
+    {
+      "id": "5.3",
+      "section": "[편집] 메뉴",
+      "context": "블록 설정 및 확장 상태에서",
+      "feature": "낱말 블록",
+      "windowsKeys": "F3, 2번",
+      "macKeys": "F3, 2번",
+      "menuPath": "-"
+    },
+    {
+      "id": "5.4",
+      "section": "[편집] 메뉴",
+      "context": "블록 설정 및 확장 상태에서",
+      "feature": "한 문단 블록",
+      "windowsKeys": "F3, 3번",
+      "macKeys": "F3, 3번",
+      "menuPath": "-"
+    },
+    {
+      "id": "5.5",
+      "section": "[편집] 메뉴",
+      "context": "블록 설정 및 확장 상태에서",
+      "feature": "문서 전체 블록",
+      "windowsKeys": "F3, 4번",
+      "macKeys": "F3, 4번",
+      "menuPath": "-"
+    },
+    {
+      "id": "5.6",
+      "section": "[편집] 메뉴",
+      "context": "블록 설정 및 확장 상태에서",
+      "feature": "근처의 문자 선택",
+      "windowsKeys": "F3+←/→",
+      "macKeys": "F3+←/→",
+      "menuPath": "-"
+    },
+    {
+      "id": "5.7",
+      "section": "[편집] 메뉴",
+      "context": "블록 설정 및 확장 상태에서",
+      "feature": "블록 설정 종료",
+      "windowsKeys": "Esc",
+      "macKeys": "Esc",
+      "menuPath": "-"
+    },
+    {
+      "id": "5.8",
+      "section": "[편집] 메뉴",
+      "context": "블록 설정 및 확장 상태에서",
+      "feature": "원하는 만큼 블록 설정",
+      "windowsKeys": "Shift+←/→",
+      "macKeys": "⇧+←/→",
+      "menuPath": "-"
+    },
+    {
+      "id": "5.9",
+      "section": "[편집] 메뉴",
+      "context": "블록 설정 및 확장 상태에서",
+      "feature": "단어 처음/끝까지 블록 설정",
+      "windowsKeys": "Ctrl+Shift+←/→",
+      "macKeys": "⌃+⇧+←/→",
+      "menuPath": "-"
+    },
+    {
+      "id": "5.10",
+      "section": "[편집] 메뉴",
+      "context": "블록 설정 및 확장 상태에서",
+      "feature": "커서부터 줄 처음/끝까지 블록 설정",
+      "windowsKeys": "Shift+Home/End",
+      "macKeys": "⇧+Home/End\n⇧+⌘+←/→",
+      "menuPath": "-"
+    },
+    {
+      "id": "5.11",
+      "section": "[편집] 메뉴",
+      "context": "블록 설정 및 확장 상태에서",
+      "feature": "문단 위/아래로 이동(블록)",
+      "windowsKeys": "Shift+↑/↓",
+      "macKeys": "⌥+⇧+↑/↓",
+      "menuPath": "-"
+    },
+    {
+      "id": "5.12",
+      "section": "[편집] 메뉴",
+      "context": "블록 설정 및 확장 상태에서",
+      "feature": "문단 처음/끝까지 블록 설정",
+      "windowsKeys": "Ctrl+Shift+↑/↓",
+      "macKeys": "⌃+⇧+↑/↓",
+      "menuPath": "-"
+    },
+    {
+      "id": "5.13",
+      "section": "[편집] 메뉴",
+      "context": "블록 설정 및 확장 상태에서",
+      "feature": "문서 처음/끝까지 블록 설정",
+      "windowsKeys": "Ctrl+Shift+Page Up/Page Down",
+      "macKeys": "⌃+⇧+Page Up/Page Down",
+      "menuPath": "-"
+    },
+    {
+      "id": "6.1",
+      "section": "[보기] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "화면 확대/축소",
+      "windowsKeys": "Shift+(Num)+/-",
+      "macKeys": "⇧+(Num)+/-\n⌘+⇧++/-",
+      "menuPath": "보기-확대/축소"
+    },
+    {
+      "id": "6.2",
+      "section": "[보기] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "쪽 맞춤",
+      "windowsKeys": "Ctrl+G+P",
+      "macKeys": "⌃+G+P",
+      "menuPath": "보기-배율"
+    },
+    {
+      "id": "6.3",
+      "section": "[보기] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "폭 맞춤",
+      "windowsKeys": "Ctrl+G+B",
+      "macKeys": "⌃+G+W",
+      "menuPath": "보기-배율"
+    },
+    {
+      "id": "6.4",
+      "section": "[보기] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "100%",
+      "windowsKeys": "Ctrl+G+Q",
+      "macKeys": "⌃+G+Q",
+      "menuPath": "보기-확대/축소"
+    },
+    {
+      "id": "6.5",
+      "section": "[보기] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "조판 부호 표시/숨기기",
+      "windowsKeys": "Ctrl+G+C",
+      "macKeys": "⌃+G+C",
+      "menuPath": "보기-표시/숨기기-조판 부호"
+    },
+    {
+      "id": "6.6",
+      "section": "[보기] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "문단 부호 표시/숨기기",
+      "windowsKeys": "Ctrl+G+T/Alt+G+T",
+      "macKeys": "⌃+G+T",
+      "menuPath": "보기-표시/숨기기-문단 부호"
+    },
+    {
+      "id": "7.1",
+      "section": "[입력] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "상용구 등록",
+      "windowsKeys": "F3 → Alt+I",
+      "macKeys": "입력-상용구-상용구 등록"
+    },
+    {
+      "id": "7.2",
+      "section": "[입력] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "상용구 실행",
+      "windowsKeys": "첫글자, Alt+I",
+      "macKeys": "-"
+    },
+    {
+      "id": "7.3",
+      "section": "[입력] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "상용구 내용 보기",
+      "windowsKeys": "Ctrl+F3",
+      "macKeys": "입력-상용구-상용구 내용"
+    },
+    {
+      "id": "7.4",
+      "section": "[입력] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "문자표",
+      "windowsKeys": "Ctrl+F10",
+      "macKeys": "⌘+F10",
+      "menuPath": "입력-문자표"
+    },
+    {
+      "id": "7.5",
+      "section": "[입력] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "각주",
+      "windowsKeys": "Ctrl+N,N/Alt+N,N",
+      "macKeys": "⌃+N,N",
+      "menuPath": "입력-주석-각주"
+    },
+    {
+      "id": "7.6",
+      "section": "[입력] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "미주",
+      "windowsKeys": "Ctrl+N,E/Alt+N,E",
+      "macKeys": "⌃+N,E",
+      "menuPath": "입력-주석-미주"
+    },
+    {
+      "id": "7.7",
+      "section": "[입력] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "하이퍼링크",
+      "windowsKeys": "Ctrl+K,H",
+      "macKeys": "⌃+K,H",
+      "menuPath": "입력-하이퍼링크"
+    },
+    {
+      "id": "7.8",
+      "section": "[입력] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "그림",
+      "windowsKeys": "Ctrl+N,I/Alt+N,I",
+      "macKeys": "⌃+N,I",
+      "menuPath": "입력-그림"
+    },
+    {
+      "id": "7.9",
+      "section": "[입력] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "글상자",
+      "windowsKeys": "Ctrl+N,B/Alt+N,B",
+      "macKeys": "⌃+N,B",
+      "menuPath": "입력-글상자"
+    },
+    {
+      "id": "7.10",
+      "section": "[입력] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "문단 띠",
+      "windowsKeys": "Ctrl+N,L/Alt+N,L",
+      "macKeys": "⌃+N,L",
+      "menuPath": "입력-문단 띠"
+    },
+    {
+      "id": "7.11",
+      "section": "[입력] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "캡션 넣기",
+      "windowsKeys": "Ctrl+N,C/Alt+N,C",
+      "macKeys": "⌃+N,C",
+      "menuPath": "입력-캡션 넣기"
+    },
+    {
+      "id": "7.12",
+      "section": "[입력] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "필드 입력",
+      "windowsKeys": "Ctrl+K,E",
+      "macKeys": "⌃+K,E",
+      "menuPath": "입력-필드 입력"
+    },
+    {
+      "id": "8.1",
+      "section": "[입력] 메뉴",
+      "context": "셀 블록 상태에서",
+      "feature": "표 자동 채우기",
+      "windowsKeys": "A",
+      "macKeys": "입력-채우기-표 자동 채우기"
+    },
+    {
+      "id": "9.1",
+      "section": "[입력] 메뉴",
+      "context": "개체를 선택한 상태에서(공통 단축키)",
+      "feature": "개체 속성",
+      "windowsKeys": "P",
+      "macKeys": "P",
+      "menuPath": "(빠른 메뉴)개체 속성"
+    },
+    {
+      "id": "9.2",
+      "section": "[입력] 메뉴",
+      "context": "개체를 선택한 상태에서(공통 단축키)",
+      "feature": "선 속성",
+      "windowsKeys": "L",
+      "macKeys": "L",
+      "menuPath": "(빠른 메뉴)개체 속성-선 탭"
+    },
+    {
+      "id": "9.3",
+      "section": "[입력] 메뉴",
+      "context": "개체를 선택한 상태에서(공통 단축키)",
+      "feature": "채우기 속성",
+      "windowsKeys": "C",
+      "macKeys": "C",
+      "menuPath": "(빠른 메뉴)개체 속성-채우기 탭"
+    },
+    {
+      "id": "9.4",
+      "section": "[입력] 메뉴",
+      "context": "개체를 선택한 상태에서(공통 단축키)",
+      "feature": "오려 두기",
+      "windowsKeys": "Ctrl+X",
+      "macKeys": "⌘+X",
+      "menuPath": "(빠른 메뉴)오려 두기"
+    },
+    {
+      "id": "9.5",
+      "section": "[입력] 메뉴",
+      "context": "개체를 선택한 상태에서(공통 단축키)",
+      "feature": "복사하기",
+      "windowsKeys": "Ctrl+C",
+      "macKeys": "⌘+C",
+      "menuPath": "(빠른 메뉴)복사하기"
+    },
+    {
+      "id": "9.6",
+      "section": "[입력] 메뉴",
+      "context": "개체를 선택한 상태에서(공통 단축키)",
+      "feature": "붙이기",
+      "windowsKeys": "Ctrl+V",
+      "macKeys": "⌘+V",
+      "menuPath": "(빠른 메뉴)붙이기"
+    },
+    {
+      "id": "9.7",
+      "section": "[입력] 메뉴",
+      "context": "개체를 선택한 상태에서(공통 단축키)",
+      "feature": "맨 앞으로",
+      "windowsKeys": "Shift+Page Up",
+      "macKeys": "⇧+Page Up",
+      "menuPath": "(빠른 메뉴)맨 앞으로"
+    },
+    {
+      "id": "9.8",
+      "section": "[입력] 메뉴",
+      "context": "개체를 선택한 상태에서(공통 단축키)",
+      "feature": "맨 뒤로",
+      "windowsKeys": "Shift+Page Down",
+      "macKeys": "⇧+Page Down",
+      "menuPath": "(빠른 메뉴)맨 뒤로"
+    },
+    {
+      "id": "9.9",
+      "section": "[입력] 메뉴",
+      "context": "개체를 선택한 상태에서(공통 단축키)",
+      "feature": "글 앞으로",
+      "windowsKeys": "Shift+Home",
+      "macKeys": "⇧+Home\n⇧+⌘+←",
+      "menuPath": "(빠른 메뉴)본문과의 배치-글 앞으로"
+    },
+    {
+      "id": "9.10",
+      "section": "[입력] 메뉴",
+      "context": "개체를 선택한 상태에서(공통 단축키)",
+      "feature": "글 뒤로",
+      "windowsKeys": "Shift+End",
+      "macKeys": "⇧+End\n⇧+⌘+→",
+      "menuPath": "(빠른 메뉴)본문과의 배치-글 뒤로"
+    },
+    {
+      "id": "9.11",
+      "section": "[입력] 메뉴",
+      "context": "개체를 선택한 상태에서(공통 단축키)",
+      "feature": "하이퍼링크",
+      "windowsKeys": "Ctrl+K,H",
+      "macKeys": "⌃+K,H",
+      "menuPath": "(빠른 메뉴)하이퍼링크"
+    },
+    {
+      "id": "9.12",
+      "section": "[입력] 메뉴",
+      "context": "개체를 선택한 상태에서(공통 단축키)",
+      "feature": "개체 이동",
+      "windowsKeys": "방향키(↑←↓→)",
+      "macKeys": "방향키(↑←↓→)",
+      "menuPath": "-"
+    },
+    {
+      "id": "9.13",
+      "section": "[입력] 메뉴",
+      "context": "개체를 선택한 상태에서(공통 단축키)",
+      "feature": "글상자 편집",
+      "windowsKeys": "Enter",
+      "macKeys": "Return",
+      "menuPath": "-"
+    },
+    {
+      "id": "10.1",
+      "section": "[입력] 메뉴",
+      "context": "그리기, 글상자를 선택한 상태에서",
+      "feature": "배경",
+      "windowsKeys": "C",
+      "macKeys": "(빠른 메뉴)개체 속성-채우기 탭"
+    },
+    {
+      "id": "11.1",
+      "section": "[입력] 메뉴",
+      "context": "글상자를 선택한 상태에서",
+      "feature": "글상자 편집",
+      "windowsKeys": "Enter",
+      "macKeys": "-"
+    },
+    {
+      "id": "12.1",
+      "section": "[입력] 메뉴",
+      "context": "수식 편집 대화 상자에서",
+      "feature": "위 첨자",
+      "windowsKeys": "Shift+6",
+      "macKeys": "입력-개체-수식"
+    },
+    {
+      "id": "12.2",
+      "section": "[입력] 메뉴",
+      "context": "수식 편집 대화 상자에서",
+      "feature": "아래 첨자",
+      "windowsKeys": "Shift+-",
+      "macKeys": "입력-개체-수식"
+    },
+    {
+      "id": "12.3",
+      "section": "[입력] 메뉴",
+      "context": "수식 편집 대화 상자에서",
+      "feature": "장식 기호",
+      "windowsKeys": "Ctrl+D",
+      "macKeys": "입력-개체-수식"
+    },
+    {
+      "id": "12.4",
+      "section": "[입력] 메뉴",
+      "context": "수식 편집 대화 상자에서",
+      "feature": "분수",
+      "windowsKeys": "Ctrl+O",
+      "macKeys": "입력-개체-수식"
+    },
+    {
+      "id": "12.5",
+      "section": "[입력] 메뉴",
+      "context": "수식 편집 대화 상자에서",
+      "feature": "근호",
+      "windowsKeys": "Ctrl+R",
+      "macKeys": "입력-개체-수식"
+    },
+    {
+      "id": "12.6",
+      "section": "[입력] 메뉴",
+      "context": "수식 편집 대화 상자에서",
+      "feature": "합 기호",
+      "windowsKeys": "Ctrl+S",
+      "macKeys": "입력-개체-수식"
+    },
+    {
+      "id": "12.7",
+      "section": "[입력] 메뉴",
+      "context": "수식 편집 대화 상자에서",
+      "feature": "적분",
+      "windowsKeys": "Ctrl+I",
+      "macKeys": "입력-개체-수식"
+    },
+    {
+      "id": "12.8",
+      "section": "[입력] 메뉴",
+      "context": "수식 편집 대화 상자에서",
+      "feature": "극한",
+      "windowsKeys": "Ctrl+L",
+      "macKeys": "입력-개체-수식"
+    },
+    {
+      "id": "12.9",
+      "section": "[입력] 메뉴",
+      "context": "수식 편집 대화 상자에서",
+      "feature": "상호 관계",
+      "windowsKeys": "Ctrl+E",
+      "macKeys": "입력-개체-수식"
+    },
+    {
+      "id": "12.10",
+      "section": "[입력] 메뉴",
+      "context": "수식 편집 대화 상자에서",
+      "feature": "괄호",
+      "windowsKeys": "Ctrl+9",
+      "macKeys": "입력-개체-수식"
+    },
+    {
+      "id": "12.11",
+      "section": "[입력] 메뉴",
+      "context": "수식 편집 대화 상자에서",
+      "feature": "경우",
+      "windowsKeys": "Ctrl+0",
+      "macKeys": "입력-개체-수식"
+    },
+    {
+      "id": "12.12",
+      "section": "[입력] 메뉴",
+      "context": "수식 편집 대화 상자에서",
+      "feature": "세로 쌓기",
+      "windowsKeys": "Ctrl+P",
+      "macKeys": "입력-개체-수식"
+    },
+    {
+      "id": "12.13",
+      "section": "[입력] 메뉴",
+      "context": "수식 편집 대화 상자에서",
+      "feature": "행렬",
+      "windowsKeys": "Ctrl+M",
+      "macKeys": "입력-개체-수식"
+    },
+    {
+      "id": "12.14",
+      "section": "[입력] 메뉴",
+      "context": "수식 편집 대화 상자에서",
+      "feature": "줄 바꿈",
+      "windowsKeys": "Enter",
+      "macKeys": "입력-개체-수식"
+    },
+    {
+      "id": "12.15",
+      "section": "[입력] 메뉴",
+      "context": "수식 편집 대화 상자에서",
+      "feature": "도움말",
+      "windowsKeys": "F1",
+      "macKeys": "입력-개체-수식"
+    },
+    {
+      "id": "12.16",
+      "section": "[입력] 메뉴",
+      "context": "수식 편집 대화 상자에서",
+      "feature": "넣기",
+      "windowsKeys": "Shift+Esc",
+      "macKeys": "입력-개체-수식"
+    },
+    {
+      "id": "13.1",
+      "section": "[서식] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "글자 모양",
+      "windowsKeys": "Alt+L",
+      "macKeys": "⌘+L",
+      "menuPath": "서식-글자 모양"
+    },
+    {
+      "id": "13.2",
+      "section": "[서식] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "문단 모양",
+      "windowsKeys": "Alt+T",
+      "macKeys": "⌥+T",
+      "menuPath": "서식-문단 모양"
+    },
+    {
+      "id": "13.3",
+      "section": "[서식] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "문단 번호 모양",
+      "windowsKeys": "Ctrl+K,N/Alt+K,N",
+      "macKeys": "⌃+K,N",
+      "menuPath": "서식-문단 번호 모양"
+    },
+    {
+      "id": "13.4",
+      "section": "[서식] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "스타일",
+      "windowsKeys": "F6",
+      "macKeys": "F6",
+      "menuPath": "서식-스타일"
+    },
+    {
+      "id": "13.5",
+      "section": "[서식] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "개체 속성",
+      "windowsKeys": "(개체를 선택한 상태에서) P",
+      "macKeys": "(개체를 선택한 상태에서) P",
+      "menuPath": "서식-개체 속성"
+    },
+    {
+      "id": "14.1",
+      "section": "[서식] 메뉴",
+      "context": "글자를 블록으로 선택한 상태에서",
+      "feature": "글씨 크게",
+      "windowsKeys": "Alt+Shift+E/Ctrl+]",
+      "macKeys": "⌘+⇧+E",
+      "menuPath": "서식-글자 모양"
+    },
+    {
+      "id": "14.2",
+      "section": "[서식] 메뉴",
+      "context": "글자를 블록으로 선택한 상태에서",
+      "feature": "글씨 작게",
+      "windowsKeys": "Alt+Shift+R/Ctrl+[",
+      "macKeys": "⌘+⇧+R",
+      "menuPath": "서식-글자 모양"
+    },
+    {
+      "id": "14.3",
+      "section": "[서식] 메뉴",
+      "context": "글자를 블록으로 선택한 상태에서",
+      "feature": "자간 넓게",
+      "windowsKeys": "Alt+Shift+W",
+      "macKeys": "⌥+⇧+W",
+      "menuPath": "서식-글자 모양"
+    },
+    {
+      "id": "14.4",
+      "section": "[서식] 메뉴",
+      "context": "글자를 블록으로 선택한 상태에서",
+      "feature": "자간 좁게",
+      "windowsKeys": "Alt+Shift+N",
+      "macKeys": "⌥+⇧+N",
+      "menuPath": "서식-글자 모양"
+    },
+    {
+      "id": "14.5",
+      "section": "[서식] 메뉴",
+      "context": "글자를 블록으로 선택한 상태에서",
+      "feature": "장으로",
+      "windowsKeys": "Alt+Shift+K",
+      "macKeys": "⌘+⇧+K",
+      "menuPath": "서식-글자 모양"
+    },
+    {
+      "id": "14.6",
+      "section": "[서식] 메뉴",
+      "context": "글자를 블록으로 선택한 상태에서",
+      "feature": "평으로",
+      "windowsKeys": "Alt+Shift+J",
+      "macKeys": "⌘+⇧+J",
+      "menuPath": "서식-글자 모양"
+    },
+    {
+      "id": "14.7",
+      "section": "[서식] 메뉴",
+      "context": "글자를 블록으로 선택한 상태에서",
+      "feature": "밑줄",
+      "windowsKeys": "Alt+Shift+U/Ctrl+U",
+      "macKeys": "⌘+U",
+      "menuPath": "서식-글자 모양"
+    },
+    {
+      "id": "14.8",
+      "section": "[서식] 메뉴",
+      "context": "글자를 블록으로 선택한 상태에서",
+      "feature": "진하게",
+      "windowsKeys": "Alt+Shift+B/Ctrl+B",
+      "macKeys": "⌘+B",
+      "menuPath": "서식-글자 모양"
+    },
+    {
+      "id": "14.9",
+      "section": "[서식] 메뉴",
+      "context": "글자를 블록으로 선택한 상태에서",
+      "feature": "기울임",
+      "windowsKeys": "Alt+Shift+I/Ctrl+I",
+      "macKeys": "⌘+I",
+      "menuPath": "서식-글자 모양"
+    },
+    {
+      "id": "14.10",
+      "section": "[서식] 메뉴",
+      "context": "글자를 블록으로 선택한 상태에서",
+      "feature": "위 첨자",
+      "windowsKeys": "Alt+Shift+P",
+      "macKeys": "⌘+⌃+P",
+      "menuPath": "서식-글자 모양"
+    },
+    {
+      "id": "14.11",
+      "section": "[서식] 메뉴",
+      "context": "글자를 블록으로 선택한 상태에서",
+      "feature": "아래 첨자",
+      "windowsKeys": "Alt+Shift+S",
+      "macKeys": "⌘+⌃+S",
+      "menuPath": "서식-글자 모양"
+    },
+    {
+      "id": "14.12",
+      "section": "[서식] 메뉴",
+      "context": "글자를 블록으로 선택한 상태에서",
+      "feature": "보통 모양",
+      "windowsKeys": "Alt+Shift+C",
+      "macKeys": "⌘+⌃+C",
+      "menuPath": "서식-글자 모양"
+    },
+    {
+      "id": "14.13",
+      "section": "[서식] 메뉴",
+      "context": "글자를 블록으로 선택한 상태에서",
+      "feature": "다음 글꼴",
+      "windowsKeys": "Alt+Shift+F",
+      "macKeys": "⌘+⌥+F",
+      "menuPath": "서식-글자 모양"
+    },
+    {
+      "id": "14.14",
+      "section": "[서식] 메뉴",
+      "context": "글자를 블록으로 선택한 상태에서",
+      "feature": "이전 글꼴",
+      "windowsKeys": "Alt+Shift+G",
+      "macKeys": "⌘+⌥+G",
+      "menuPath": "서식-글자 모양"
+    },
+    {
+      "id": "14.15",
+      "section": "[서식] 메뉴",
+      "context": "글자를 블록으로 선택한 상태에서",
+      "feature": "위 첨자/아래 첨자/보통",
+      "windowsKeys": "Ctrl+Alt+A",
+      "macKeys": "⌘+⌥+A",
+      "menuPath": "서식-글자 모양"
+    },
+    {
+      "id": "14.16",
+      "section": "[서식] 메뉴",
+      "context": "글자를 블록으로 선택한 상태에서",
+      "feature": "검정 글자색",
+      "windowsKeys": "Ctrl+M,K",
+      "macKeys": "⌃+M,K",
+      "menuPath": "서식-글자 모양"
+    },
+    {
+      "id": "14.17",
+      "section": "[서식] 메뉴",
+      "context": "글자를 블록으로 선택한 상태에서",
+      "feature": "빨강 글자 색",
+      "windowsKeys": "Ctrl+M,R",
+      "macKeys": "⌃+M,R",
+      "menuPath": "서식-글자 모양"
+    },
+    {
+      "id": "14.18",
+      "section": "[서식] 메뉴",
+      "context": "글자를 블록으로 선택한 상태에서",
+      "feature": "파랑 글자 색",
+      "windowsKeys": "Ctrl+M,B",
+      "macKeys": "⌃+M,B",
+      "menuPath": "서식-글자 모양"
+    },
+    {
+      "id": "14.19",
+      "section": "[서식] 메뉴",
+      "context": "글자를 블록으로 선택한 상태에서",
+      "feature": "자주 글자 색",
+      "windowsKeys": "Ctrl+M,D",
+      "macKeys": "⌃+M,D",
+      "menuPath": "서식-글자 모양"
+    },
+    {
+      "id": "14.20",
+      "section": "[서식] 메뉴",
+      "context": "글자를 블록으로 선택한 상태에서",
+      "feature": "초록 글자 색",
+      "windowsKeys": "Ctrl+M,G",
+      "macKeys": "⌃+M,G",
+      "menuPath": "서식-글자 모양"
+    },
+    {
+      "id": "14.21",
+      "section": "[서식] 메뉴",
+      "context": "글자를 블록으로 선택한 상태에서",
+      "feature": "노랑 글자 색",
+      "windowsKeys": "Ctrl+M,Y",
+      "macKeys": "⌃+M,Y",
+      "menuPath": "서식-글자 모양"
+    },
+    {
+      "id": "14.22",
+      "section": "[서식] 메뉴",
+      "context": "글자를 블록으로 선택한 상태에서",
+      "feature": "청록 글자 색",
+      "windowsKeys": "Ctrl+M,C",
+      "macKeys": "⌃+M,C",
+      "menuPath": "서식-글자 모양"
+    },
+    {
+      "id": "14.23",
+      "section": "[서식] 메뉴",
+      "context": "글자를 블록으로 선택한 상태에서",
+      "feature": "흰색 글자 색",
+      "windowsKeys": "Ctrl+M,W",
+      "macKeys": "⌃+M,W",
+      "menuPath": "서식-글자 모양"
+    },
+    {
+      "id": "15.1",
+      "section": "[서식] 메뉴",
+      "context": "문단 속성 관련 단축키",
+      "feature": "빠른 내어쓰기\n(두 번째 줄부터 현재 커서 위치에 맞추어 정렬)",
+      "windowsKeys": "Shift+Tab",
+      "macKeys": "⇧+Tab",
+      "menuPath": "서식-문단 모양"
+    },
+    {
+      "id": "15.2",
+      "section": "[서식] 메뉴",
+      "context": "문단 속성 관련 단축키",
+      "feature": "왼쪽 여백 줄이기",
+      "windowsKeys": "Ctrl+Alt+F5/Ctrl+Shift+E",
+      "macKeys": "⌃+⌥+F5",
+      "menuPath": "서식-문단 모양"
+    },
+    {
+      "id": "15.3",
+      "section": "[서식] 메뉴",
+      "context": "문단 속성 관련 단축키",
+      "feature": "왼쪽 여백 늘이기",
+      "windowsKeys": "Ctrl+Alt+F6/Ctrl+Shift+G",
+      "macKeys": "⌃+⌥+F6",
+      "menuPath": "서식-문단 모양"
+    },
+    {
+      "id": "15.4",
+      "section": "[서식] 메뉴",
+      "context": "문단 속성 관련 단축키",
+      "feature": "오른쪽 여백 늘이기",
+      "windowsKeys": "Ctrl+Alt+F7/Ctrl+Shift+D",
+      "macKeys": "⌃+⌥+F7",
+      "menuPath": "서식-문단 모양"
+    },
+    {
+      "id": "15.5",
+      "section": "[서식] 메뉴",
+      "context": "문단 속성 관련 단축키",
+      "feature": "오른쪽 여백 줄이기",
+      "windowsKeys": "Ctrl+Alt+F8/Ctrl+Shift+F",
+      "macKeys": "⌃+⌥+F8",
+      "menuPath": "서식-문단 모양"
+    },
+    {
+      "id": "15.6",
+      "section": "[서식] 메뉴",
+      "context": "문단 속성 관련 단축키",
+      "feature": "첫 줄 내어쓰기",
+      "windowsKeys": "Ctrl+F5/Ctrl+Shift+O",
+      "macKeys": "⌃+⌘+F5",
+      "menuPath": "서식-문단 모양"
+    },
+    {
+      "id": "15.7",
+      "section": "[서식] 메뉴",
+      "context": "문단 속성 관련 단축키",
+      "feature": "첫 줄 들여 쓰기",
+      "windowsKeys": "Ctrl+F6/Ctrl+Shift+I",
+      "macKeys": "⌃+⌘+F6",
+      "menuPath": "서식-문단 모양"
+    },
+    {
+      "id": "15.8",
+      "section": "[서식] 메뉴",
+      "context": "문단 속성 관련 단축키",
+      "feature": "양쪽 여백 줄이기",
+      "windowsKeys": "Ctrl+F7",
+      "macKeys": "⌃+⌘+F7",
+      "menuPath": "서식-문단 모양"
+    },
+    {
+      "id": "15.9",
+      "section": "[서식] 메뉴",
+      "context": "문단 속성 관련 단축키",
+      "feature": "양쪽 여백 늘이기",
+      "windowsKeys": "Ctrl+F8",
+      "macKeys": "⌃+⌘+F8",
+      "menuPath": "서식-문단 모양"
+    },
+    {
+      "id": "15.10",
+      "section": "[서식] 메뉴",
+      "context": "문단 속성 관련 단축키",
+      "feature": "줄 간격 넓게",
+      "windowsKeys": "Alt+Shift+Z/Ctrl+Shift+W",
+      "macKeys": "⌃+⇧+W",
+      "menuPath": "서식-문단 모양"
+    },
+    {
+      "id": "15.11",
+      "section": "[서식] 메뉴",
+      "context": "문단 속성 관련 단축키",
+      "feature": "줄 간격 좁게",
+      "windowsKeys": "Alt+Shift+A/Ctrl+Shift+Q",
+      "macKeys": "⌃+⇧+Q",
+      "menuPath": "서식-문단 모양"
+    },
+    {
+      "id": "15.12",
+      "section": "[서식] 메뉴",
+      "context": "문단 속성 관련 단축키",
+      "feature": "양쪽 정렬",
+      "windowsKeys": "Ctrl+Shift+M",
+      "macKeys": "⌃+⇧+M",
+      "menuPath": "서식-문단 모양"
+    },
+    {
+      "id": "15.13",
+      "section": "[서식] 메뉴",
+      "context": "문단 속성 관련 단축키",
+      "feature": "왼쪽 정렬",
+      "windowsKeys": "Ctrl+Shift+L",
+      "macKeys": "⌃+⇧+L",
+      "menuPath": "서식-문단 모양"
+    },
+    {
+      "id": "15.14",
+      "section": "[서식] 메뉴",
+      "context": "문단 속성 관련 단축키",
+      "feature": "오른쪽 정렬",
+      "windowsKeys": "Ctrl+Shift+R",
+      "macKeys": "⌃+⇧+R",
+      "menuPath": "서식-문단 모양"
+    },
+    {
+      "id": "15.15",
+      "section": "[서식] 메뉴",
+      "context": "문단 속성 관련 단축키",
+      "feature": "가운데 정렬",
+      "windowsKeys": "Ctrl+Shift+C",
+      "macKeys": "⌃+⇧+C",
+      "menuPath": "서식-문단 모양"
+    },
+    {
+      "id": "15.16",
+      "section": "[서식] 메뉴",
+      "context": "문단 속성 관련 단축키",
+      "feature": "배분 정렬",
+      "windowsKeys": "Ctrl+Shift+T/Alt+Shift+T",
+      "macKeys": "⌃+⇧+T",
+      "menuPath": "서식-문단 모양"
+    },
+    {
+      "id": "15.17",
+      "section": "[서식] 메뉴",
+      "context": "문단 속성 관련 단축키",
+      "feature": "한 수준 증가(문단 번호)",
+      "windowsKeys": "Ctrl+(Num)-",
+      "macKeys": "⌃+(Num)-",
+      "menuPath": "-"
+    },
+    {
+      "id": "15.18",
+      "section": "[서식] 메뉴",
+      "context": "문단 속성 관련 단축키",
+      "feature": "한 수준 감소(문단 번호)",
+      "windowsKeys": "Ctrl+(Num)+",
+      "macKeys": "⌃+(Num)+",
+      "menuPath": "-"
+    },
+    {
+      "id": "15.19",
+      "section": "[서식] 메뉴",
+      "context": "문단 속성 관련 단축키",
+      "feature": "문단 번호 속성 삽입/해제",
+      "windowsKeys": "Ctrl+Shift+Insert",
+      "macKeys": "⌃+⇧+I",
+      "menuPath": "-"
+    },
+    {
+      "id": "15.20",
+      "section": "[서식] 메뉴",
+      "context": "문단 속성 관련 단축키",
+      "feature": "문단 번호 새 번호로 시작",
+      "windowsKeys": "Alt+Shift+Insert",
+      "macKeys": "⌥+⇧+I",
+      "menuPath": "-"
+    },
+    {
+      "id": "15.21",
+      "section": "[서식] 메뉴",
+      "context": "문단 속성 관련 단축키",
+      "feature": "글머리표 속성 삽입/해제",
+      "windowsKeys": "Ctrl+Shift+Delete",
+      "macKeys": "⌃+⇧+BackSpace",
+      "menuPath": "-"
+    },
+    {
+      "id": "16.1",
+      "section": "[쪽] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "편집 용지",
+      "windowsKeys": "F7",
+      "macKeys": "F7",
+      "menuPath": "쪽-편집 용지"
+    },
+    {
+      "id": "16.2",
+      "section": "[쪽] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "현재 쪽 감추기",
+      "windowsKeys": "Ctrl+N,S/Alt+N,S",
+      "macKeys": "⌃+N,S",
+      "menuPath": "-"
+    },
+    {
+      "id": "16.3",
+      "section": "[쪽] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "쪽 나누기",
+      "windowsKeys": "Ctrl+Enter",
+      "macKeys": "⌃+Return",
+      "menuPath": "쪽-쪽 나누기"
+    },
+    {
+      "id": "16.4",
+      "section": "[쪽] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "단 나누기",
+      "windowsKeys": "Ctrl+Shift+Enter",
+      "macKeys": "⌃+⇧+Return",
+      "menuPath": "쪽-단 나누기"
+    },
+    {
+      "id": "16.5",
+      "section": "[쪽] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "다단 설정 나누기",
+      "windowsKeys": "Ctrl+Alt+Enter",
+      "macKeys": "⌃+⌥+Return",
+      "menuPath": "쪽-다단 설정 나누기"
+    },
+    {
+      "id": "17.1",
+      "section": "[검토] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "맞춤법",
+      "windowsKeys": "F8",
+      "macKeys": "도구-맞춤법"
+    },
+    {
+      "id": "17.2",
+      "section": "[검토] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "한컴 사전",
+      "windowsKeys": "Shift+F6/F12",
+      "macKeys": "검토-한컴 사전"
+    },
+    {
+      "id": "17.3",
+      "section": "[검토] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "한자 자전",
+      "windowsKeys": "Shift+F9",
+      "macKeys": "검토-한자 자전"
+    },
+    {
+      "id": "17.4",
+      "section": "[검토] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "유의어/반의어 사전",
+      "windowsKeys": "Ctrl+F12",
+      "macKeys": "검토-유의어/반의어 사전"
+    },
+    {
+      "id": "18.1",
+      "section": "[도구] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "맞춤법",
+      "windowsKeys": "F8",
+      "macKeys": "도구-맞춤법"
+    },
+    {
+      "id": "18.2",
+      "section": "[도구] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "빠른 교정 내용",
+      "windowsKeys": "Shift+F8",
+      "macKeys": "도구-빠른 교정-빠른 교정 내용"
+    },
+    {
+      "id": "18.3",
+      "section": "[도구] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "글자판 바꾸기",
+      "windowsKeys": "Alt+F2",
+      "macKeys": "도구-글자판-글자판 바꾸기"
+    },
+    {
+      "id": "18.4",
+      "section": "[도구] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "글자판 보기",
+      "windowsKeys": "Alt+F1",
+      "macKeys": "도구-글자판-글자판 보기"
+    },
+    {
+      "id": "18.5",
+      "section": "[도구] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "한/영 자판 전환 (1, 2 글자판)",
+      "windowsKeys": "왼쪽 Shift+SpaceBar",
+      "macKeys": "-"
+    },
+    {
+      "id": "18.6",
+      "section": "[도구] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "3, 4 글자판 전환",
+      "windowsKeys": "오른쪽 Shift+SpaceBar",
+      "macKeys": "-"
+    },
+    {
+      "id": "18.7",
+      "section": "[도구] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "스크립트 매크로 정의",
+      "windowsKeys": "Alt+Shift+H",
+      "macKeys": "도구-매크로-스크립트 매크로 정의"
+    },
+    {
+      "id": "18.8",
+      "section": "[도구] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "스크립트 매크로 중지",
+      "windowsKeys": "Alt+Shift+X",
+      "macKeys": "도구-매크로-스크립트 매크로 중지"
+    },
+    {
+      "id": "18.9",
+      "section": "[도구] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "매크로 실행",
+      "windowsKeys": "Alt+Shift+L",
+      "macKeys": "도구-매크로-매크로 실행"
+    },
+    {
+      "id": "18.10",
+      "section": "[도구] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "매크로1",
+      "windowsKeys": "Alt+Shift+1, Alt+1",
+      "macKeys": "도구-매크로-매크로 실행"
+    },
+    {
+      "id": "18.11",
+      "section": "[도구] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "매크로2",
+      "windowsKeys": "Alt+Shift+2, Alt+2",
+      "macKeys": "도구-매크로-매크로 실행"
+    },
+    {
+      "id": "18.12",
+      "section": "[도구] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "차례 새로 고침",
+      "windowsKeys": "Ctrl+K,U",
+      "macKeys": "도구-차례/색인-차례 새로 고침"
+    },
+    {
+      "id": "18.13",
+      "section": "[도구] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "모든 차례 새로 고침",
+      "windowsKeys": "Ctrl+K,A",
+      "macKeys": "도구-차례/색인-차례 새로 고침-모든 차례 새로 고침"
+    },
+    {
+      "id": "18.14",
+      "section": "[도구] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "제목 차례 표시",
+      "windowsKeys": "Ctrl+K,T",
+      "macKeys": "도구-차례/색인-제목 차례 표시"
+    },
+    {
+      "id": "18.15",
+      "section": "[도구] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "차례 숨기기",
+      "windowsKeys": "Ctrl+K,S",
+      "macKeys": "도구-차례/색인-차례 숨기기"
+    },
+    {
+      "id": "18.16",
+      "section": "[도구] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "색인 표시 달기",
+      "windowsKeys": "Ctrl+K,I",
+      "macKeys": "도구-차례/색인-색인 표시"
+    },
+    {
+      "id": "18.17",
+      "section": "[도구] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "메일 머지 표시 달기",
+      "windowsKeys": "Ctrl+K,M",
+      "macKeys": "도구-메일 머지-메일 머지 표시 달기"
+    },
+    {
+      "id": "18.18",
+      "section": "[도구] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "메일 머지 만들기",
+      "windowsKeys": "Alt+M",
+      "macKeys": "도구-메일 머지-메일 머지 만들기"
+    },
+    {
+      "id": "18.19",
+      "section": "[도구] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "프레젠테이션 실행",
+      "windowsKeys": "Ctrl+K,P",
+      "macKeys": "도구-프레젠테이션-프레젠테이션 실행"
+    },
+    {
+      "id": "19.1",
+      "section": "[표] 메뉴",
+      "context": "기본 작업 상태에서",
+      "feature": "표 만들기",
+      "windowsKeys": "Ctrl+N,T/Alt+N,T",
+      "macKeys": "⌃+N,T",
+      "menuPath": "표-표 만들기"
+    },
+    {
+      "id": "20.1",
+      "section": "[표] 메뉴",
+      "context": "표/셀을 선택한 상태에서",
+      "feature": "현재 셀 선택",
+      "windowsKeys": "F5",
+      "macKeys": "F5",
+      "menuPath": "-"
+    },
+    {
+      "id": "20.2",
+      "section": "[표] 메뉴",
+      "context": "표/셀을 선택한 상태에서",
+      "feature": "개체 속성",
+      "windowsKeys": "P",
+      "macKeys": "P",
+      "menuPath": "(빠른 메뉴)개체 속성"
+    },
+    {
+      "id": "20.3",
+      "section": "[표] 메뉴",
+      "context": "표/셀을 선택한 상태에서",
+      "feature": "오려 두기",
+      "windowsKeys": "Ctrl+X",
+      "macKeys": "⌘+X",
+      "menuPath": "(빠른 메뉴)오려 두기"
+    },
+    {
+      "id": "20.4",
+      "section": "[표] 메뉴",
+      "context": "표/셀을 선택한 상태에서",
+      "feature": "복사하기",
+      "windowsKeys": "Ctrl+C",
+      "macKeys": "⌘+C",
+      "menuPath": "(빠른 메뉴)복사하기"
+    },
+    {
+      "id": "20.5",
+      "section": "[표] 메뉴",
+      "context": "표/셀을 선택한 상태에서",
+      "feature": "붙이기",
+      "windowsKeys": "Ctrl+V",
+      "macKeys": "⌘+V",
+      "menuPath": "(빠른 메뉴)붙이기"
+    },
+    {
+      "id": "20.6",
+      "section": "[표] 메뉴",
+      "context": "표/셀을 선택한 상태에서",
+      "feature": "지우기",
+      "windowsKeys": "Ctrl+E",
+      "macKeys": "⌘+E",
+      "menuPath": "(빠른 메뉴)지우기"
+    },
+    {
+      "id": "20.7",
+      "section": "[표] 메뉴",
+      "context": "표/셀을 선택한 상태에서",
+      "feature": "캡션 넣기",
+      "windowsKeys": "Ctrl+N,C/Alt+N,C",
+      "macKeys": "⌃+N,C",
+      "menuPath": "(빠른 메뉴)캡션 넣기"
+    },
+    {
+      "id": "20.8",
+      "section": "[표] 메뉴",
+      "context": "표/셀을 선택한 상태에서",
+      "feature": "테두리 속성",
+      "windowsKeys": "L",
+      "macKeys": "L",
+      "menuPath": "(빠른 메뉴)개체 속성-테두리 탭"
+    },
+    {
+      "id": "20.9",
+      "section": "[표] 메뉴",
+      "context": "표/셀을 선택한 상태에서",
+      "feature": "배경 속성",
+      "windowsKeys": "C",
+      "macKeys": "C",
+      "menuPath": "(빠른 메뉴)개체 속성-채우기 탭"
+    },
+    {
+      "id": "21.1",
+      "section": "[표] 메뉴",
+      "context": "표 내부에 커서를 둔 상태에서",
+      "feature": "표 전체 선택",
+      "windowsKeys": "F5, F5, F5",
+      "macKeys": "F5, F5, F5",
+      "menuPath": "-"
+    },
+    {
+      "id": "21.2",
+      "section": "[표] 메뉴",
+      "context": "표 내부에 커서를 둔 상태에서",
+      "feature": "현재 셀 선택(방향키 누르면 셀 블록 이동)",
+      "windowsKeys": "F5",
+      "macKeys": "F5",
+      "menuPath": "-"
+    },
+    {
+      "id": "21.3",
+      "section": "[표] 메뉴",
+      "context": "표 내부에 커서를 둔 상태에서",
+      "feature": "현재 셀 선택(방향키 누르면 셀 블록 확장)",
+      "windowsKeys": "Shift+F5",
+      "macKeys": "⇧+F5",
+      "menuPath": "-"
+    },
+    {
+      "id": "21.4",
+      "section": "[표] 메뉴",
+      "context": "표 내부에 커서를 둔 상태에서",
+      "feature": "줄 추가하기",
+      "windowsKeys": "Ctrl+Enter",
+      "macKeys": "⌃+Return",
+      "menuPath": "-"
+    },
+    {
+      "id": "21.5",
+      "section": "[표] 메뉴",
+      "context": "표 내부에 커서를 둔 상태에서",
+      "feature": "줄 지우기",
+      "windowsKeys": "Ctrl+BackSpace",
+      "macKeys": "⌃+BackSpace",
+      "menuPath": "-"
+    },
+    {
+      "id": "21.6",
+      "section": "[표] 메뉴",
+      "context": "표 내부에 커서를 둔 상태에서",
+      "feature": "칸 추가하기",
+      "windowsKeys": "Alt+Insert",
+      "macKeys": "⌃+I",
+      "menuPath": "-"
+    },
+    {
+      "id": "21.7",
+      "section": "[표] 메뉴",
+      "context": "표 내부에 커서를 둔 상태에서",
+      "feature": "칸 지우기",
+      "windowsKeys": "Alt+Delete",
+      "macKeys": "^+D",
+      "menuPath": "-"
+    },
+    {
+      "id": "21.8",
+      "section": "[표] 메뉴",
+      "context": "표 내부에 커서를 둔 상태에서",
+      "feature": "표 안에서 다른 셀로 이동(정방향)",
+      "windowsKeys": "Tab",
+      "macKeys": "Tab",
+      "menuPath": "-"
+    },
+    {
+      "id": "21.9",
+      "section": "[표] 메뉴",
+      "context": "표 내부에 커서를 둔 상태에서",
+      "feature": "표 안에서 다른 셀로 이동(역방향)",
+      "windowsKeys": "Shift+Tab",
+      "macKeys": "⇧+Tab",
+      "menuPath": "-"
+    },
+    {
+      "id": "21.10",
+      "section": "[표] 메뉴",
+      "context": "표 내부에 커서를 둔 상태에서",
+      "feature": "위/아래 줄로 이동",
+      "windowsKeys": "↑/↓",
+      "macKeys": "↑/↓",
+      "menuPath": "-"
+    },
+    {
+      "id": "21.11",
+      "section": "[표] 메뉴",
+      "context": "표 내부에 커서를 둔 상태에서",
+      "feature": "빠른 내어쓰기\n(두 번째 줄부터 현재 커서 위치에 맞추어 정렬)",
+      "windowsKeys": "Ctrl+Shift+`\n(단축키에 포함된 억음 악센트 기호(`)는 물결 기호(~) 키 아래에 포함)",
+      "macKeys": "⌃+⇧+`",
+      "menuPath": "-"
+    },
+    {
+      "id": "22.1",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "셀 확장 모드",
+      "windowsKeys": "F3 또는 F5",
+      "macKeys": "F3 또는 F5",
+      "menuPath": "-"
+    },
+    {
+      "id": "22.2",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "칸 전체 블록",
+      "windowsKeys": "F7",
+      "macKeys": "F7",
+      "menuPath": "-"
+    },
+    {
+      "id": "22.3",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "줄 전체 블록",
+      "windowsKeys": "F8",
+      "macKeys": "F8",
+      "menuPath": "-"
+    },
+    {
+      "id": "22.4",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "현재 셀의 크기 조절",
+      "windowsKeys": "Shift+화살표",
+      "macKeys": "⇧+화살표",
+      "menuPath": "-"
+    },
+    {
+      "id": "22.5",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "현재 셀이 속한 가로줄/세로 칸 전체 크기",
+      "windowsKeys": "Ctrl+화살표",
+      "macKeys": "⌃+⌥+화살표",
+      "menuPath": "-"
+    },
+    {
+      "id": "22.6",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "표 크기를 고정한 채 가로줄/세로 칸 크기",
+      "windowsKeys": "Alt+화살표",
+      "macKeys": "⌥+화살표",
+      "menuPath": "-"
+    },
+    {
+      "id": "22.7",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "표 안에서 다른 셀로 이동(정방향)",
+      "windowsKeys": "Tab",
+      "macKeys": "Tab",
+      "menuPath": "-"
+    },
+    {
+      "id": "22.8",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "표 안에서 다른 셀로 이동(역방향)",
+      "windowsKeys": "Shift+Tab",
+      "macKeys": "⇧+Tab",
+      "menuPath": "-"
+    },
+    {
+      "id": "22.9",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "표 빠져나가기",
+      "windowsKeys": "Shift+Esc",
+      "macKeys": "⇧+Esc",
+      "menuPath": "-"
+    },
+    {
+      "id": "22.10",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "줄 추가하기",
+      "windowsKeys": "Ctrl+Enter",
+      "macKeys": "⌃+Return",
+      "menuPath": "-"
+    },
+    {
+      "id": "22.11",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "줄 지우기",
+      "windowsKeys": "Ctrl+BackSpace",
+      "macKeys": "⌃+BackSpace",
+      "menuPath": "-"
+    },
+    {
+      "id": "22.12",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "칸 추가하기",
+      "windowsKeys": "Alt+Insert",
+      "macKeys": "⌃+I",
+      "menuPath": "-"
+    },
+    {
+      "id": "22.13",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "칸 지우기",
+      "windowsKeys": "Alt+Delete",
+      "macKeys": "^+D",
+      "menuPath": "-"
+    },
+    {
+      "id": "22.14",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "셀 내용 지우기",
+      "windowsKeys": "Ctrl+E 또는 Delete",
+      "macKeys": "⌘+E 또는 Delete",
+      "menuPath": "-"
+    },
+    {
+      "id": "22.15",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "줄 높이를 같게",
+      "windowsKeys": "H",
+      "macKeys": "H",
+      "menuPath": "(빠른 메뉴)셀 높이를 같게"
+    },
+    {
+      "id": "22.16",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "줄 너비를 같게",
+      "windowsKeys": "W",
+      "macKeys": "W",
+      "menuPath": "(빠른 메뉴)셀 너비를 같게"
+    },
+    {
+      "id": "22.17",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "셀 합치기",
+      "windowsKeys": "M",
+      "macKeys": "M",
+      "menuPath": "(빠른 메뉴)셀 합치기"
+    },
+    {
+      "id": "22.18",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "셀 나누기",
+      "windowsKeys": "S",
+      "macKeys": "S",
+      "menuPath": "(빠른 메뉴)셀 나누기"
+    },
+    {
+      "id": "22.19",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "블록 합",
+      "windowsKeys": "Ctrl+Shift+S",
+      "macKeys": "⌃+⇧+S",
+      "menuPath": "-"
+    },
+    {
+      "id": "22.20",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "블록 평균",
+      "windowsKeys": "Ctrl+Shift+A",
+      "macKeys": "⌃+⇧+A",
+      "menuPath": "-"
+    },
+    {
+      "id": "22.21",
+      "section": "[표] 메뉴",
+      "context": "셀 블록 상태에서 <F5>",
+      "feature": "블록 곱",
+      "windowsKeys": "Ctrl+Shift+P",
+      "macKeys": "⌃+⇧+P",
+      "menuPath": "-"
+    },
+    {
+      "id": "23.1",
+      "section": "기타",
+      "context": "기타 단축키",
+      "feature": "도움말",
+      "windowsKeys": "F1",
+      "macKeys": "도움말-내용"
+    },
+    {
+      "id": "23.2",
+      "section": "기타",
+      "context": "기타 단축키",
+      "feature": "메뉴",
+      "windowsKeys": "F10/Alt",
+      "macKeys": "-"
+    },
+    {
+      "id": "23.3",
+      "section": "기타",
+      "context": "기타 단축키",
+      "feature": "빠른 메뉴",
+      "windowsKeys": "Shift+F10",
+      "macKeys": "-"
+    },
+    {
+      "id": "23.4",
+      "section": "기타",
+      "context": "기타 단축키",
+      "feature": "고정폭 빈칸",
+      "windowsKeys": "Alt+SpaceBar",
+      "macKeys": "-"
+    },
+    {
+      "id": "23.5",
+      "section": "기타",
+      "context": "기타 단축키",
+      "feature": "묶음 빈칸",
+      "windowsKeys": "Ctrl+Alt+SpaceBar",
+      "macKeys": "-"
+    },
+    {
+      "id": "23.6",
+      "section": "기타",
+      "context": "기타 단축키",
+      "feature": "무른 하이픈(-)",
+      "windowsKeys": "Ctrl+Shift+-",
+      "macKeys": "-"
+    },
+    {
+      "id": "23.7",
+      "section": "기타",
+      "context": "기타 단축키",
+      "feature": "개체 선택",
+      "windowsKeys": "F11",
+      "macKeys": "-"
+    },
+    {
+      "id": "23.8",
+      "section": "기타",
+      "context": "기타 단축키",
+      "feature": "도구 상자 단계별 접기/펴기",
+      "windowsKeys": "Ctrl+F1",
+      "macKeys": "-"
+    },
+    {
+      "id": "24.1",
+      "section": "기타",
+      "context": "",
+      "feature": "도움말",
+      "windowsKeys": "F1",
+      "macKeys": "F1",
+      "menuPath": "제목 표시줄 오른쪽 영역 ? 아이콘"
+    },
+    {
+      "id": "24.2",
+      "section": "기타",
+      "context": "",
+      "feature": "단축키 가이드",
+      "windowsKeys": "Ctrl+/",
+      "macKeys": "Ctrl+//⌘+/",
+      "menuPath": "제목 표시줄 오른쪽 영역 K 아이콘"
+    }
+  ]
+}
